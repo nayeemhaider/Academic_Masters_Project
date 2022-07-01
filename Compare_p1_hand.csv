@@ -1,0 +1,3354 @@
+,Timestamp,Ground_truth,Predicted_value
+0,0.416,Stand,Stand
+1,0.438,Stand,Stand
+2,0.461,Stand,Stand
+3,0.483,Stand,Stand
+4,0.505,Stand,Stand
+5,0.526,Stand,Stand
+6,0.548,Stand,Stand
+7,0.571,Stand,Stand
+8,0.592,Stand,Stand
+9,0.615,Stand,Stand
+10,0.636,Stand,Stand
+11,0.659,Stand,Stand
+12,0.681,Stand,Stand
+13,0.703,Stand,Stand
+14,0.725,Stand,Stand
+15,0.747,Stand,Stand
+16,0.769,Stand,Stand
+17,0.791,Stand,Stand
+18,0.813,Stand,Stand
+19,0.835,Stand,Stand
+20,0.857,Stand,Stand
+21,0.879,Stand,Stand
+22,0.901,Stand,Stand
+23,0.923,Stand,Stand
+24,0.948,Stand,Stand
+25,0.967,Stand,Stand
+26,0.989,Stand,Stand
+27,1.012,Stand,Stand
+28,1.033,Stand,Stand
+29,1.057,Stand,Stand
+30,1.078,Stand,Stand
+31,1.1,Stand,Stand
+32,1.122,Stand,Stand
+33,1.144,Stand,Stand
+34,1.166,Stand,Stand
+35,1.189,Stand,Stand
+36,1.21,Stand,Stand
+37,1.232,Stand,Stand
+38,1.255,Stand,Stand
+39,1.277,Stand,Stand
+40,1.297,Stand,Stand
+41,1.32,Stand,Stand
+42,1.342,Stand,Stand
+43,1.364,Stand,Stand
+44,1.386,Stand,Stand
+45,1.409,Stand,Stand
+46,1.43,Stand,Stand
+47,1.454,Stand,Stand
+48,1.474,Stand,Stand
+49,1.496,Stand,Stand
+50,1.52,Stand,Stand
+51,1.541,Stand,Stand
+52,1.563,Stand,Stand
+53,1.585,Stand,Stand
+54,1.608,Stand,Stand
+55,1.629,Stand,Stand
+56,1.651,Stand,Stand
+57,1.673,Stand,Stand
+58,1.695,Stand,Stand
+59,1.717,Stand,Stand
+60,1.74,Stand,Stand
+61,1.762,Stand,Stand
+62,1.785,Stand,Stand
+63,1.806,Stand,Stand
+64,1.829,Stand,Stand
+65,1.85,Stand,Stand
+66,1.872,Stand,Stand
+67,1.894,Stand,Stand
+68,1.915,Stand,Stand
+69,1.937,Stand,Stand
+70,1.959,Stand,Stand
+71,1.981,Stand,Stand
+72,2.004,Stand,Stand
+73,2.025,Stand,Stand
+74,2.047,Stand,Stand
+75,2.069,Stand,Stand
+76,2.092,Stand,Stand
+77,2.114,Stand,Stand
+78,2.136,Stand,Stand
+79,2.157,Stand,Stand
+80,2.18,Stand,Stand
+81,2.204,Stand,Stand
+82,2.224,Stand,Stand
+83,2.246,Stand,Stand
+84,2.269,Stand,Stand
+85,2.29,Stand,Stand
+86,2.312,Stand,Stand
+87,2.334,Stand,Stand
+88,2.356,Stand,Stand
+89,2.378,Stand,Stand
+90,2.4,Stand,Stand
+91,2.422,Stand,Stand
+92,2.444,Stand,Stand
+93,2.466,Stand,Stand
+94,2.489,Stand,Stand
+95,2.51,Stand,Stand
+96,2.532,Stand,Stand
+97,2.554,Stand,Stand
+98,2.576,Stand,Stand
+99,2.598,Stand,Stand
+100,2.62,Stand,Stand
+101,2.643,Stand,Stand
+102,2.666,Stand,Stand
+103,2.687,Stand,Stand
+104,2.709,Stand,Stand
+105,2.731,Stand,Stand
+106,2.756,Stand,Stand
+107,2.776,Stand,Stand
+108,2.797,Stand,Stand
+109,2.819,Stand,Stand
+110,2.841,Stand,Stand
+111,2.864,Stand,Stand
+112,2.885,Stand,Stand
+113,2.908,Stand,Stand
+114,2.929,Stand,Stand
+115,2.951,Stand,Stand
+116,2.973,Stand,Stand
+117,2.995,Stand,Stand
+118,3.017,Stand,Stand
+119,3.041,Stand,Stand
+120,3.063,Stand,Stand
+121,3.085,Stand,Stand
+122,3.106,Stand,Stand
+123,3.128,Stand,Stand
+124,3.152,Stand,Stand
+125,3.173,Stand,Stand
+126,3.194,Stand,Stand
+127,3.218,Stand,Stand
+128,3.238,Stand,Stand
+129,3.261,Stand,Stand
+130,3.283,Stand,Stand
+131,3.305,Stand,Stand
+132,3.332,Stand,Stand
+133,3.349,Stand,Stand
+134,3.37,Stand,Stand
+135,3.393,Stand,Stand
+136,3.415,Stand,Stand
+137,3.437,Stand,Stand
+138,3.462,Stand,Stand
+139,3.48,Stand,Stand
+140,3.502,Stand,Stand
+141,3.525,Stand,Stand
+142,3.547,Stand,Stand
+143,3.569,Stand,Stand
+144,3.591,Stand,Stand
+145,3.615,Stand,Stand
+146,3.635,Stand,Stand
+147,3.659,Stand,Stand
+148,3.679,Stand,Stand
+149,3.701,Stand,Stand
+150,3.723,Stand,Stand
+151,3.745,Stand,Stand
+152,3.767,Stand,Stand
+153,3.79,Stand,Stand
+154,3.811,Stand,Stand
+155,3.833,Stand,Stand
+156,3.856,Stand,Stand
+157,3.878,Stand,Stand
+158,3.9,Stand,Stand
+159,3.922,Stand,Stand
+160,3.944,Stand,Stand
+161,3.968,Stand,Stand
+162,3.988,Stand,Stand
+163,4.01,Stand,Stand
+164,4.032,Stand,Stand
+165,4.054,Stand,Stand
+166,4.077,Stand,Stand
+167,4.098,Stand,Stand
+168,4.119,Stand,Stand
+169,4.141,Stand,Stand
+170,4.163,Stand,Stand
+171,4.19,Stand,Stand
+172,4.208,Stand,Stand
+173,4.229,Stand,Stand
+174,4.254,Stand,Stand
+175,4.274,Stand,Stand
+176,4.298,Stand,Stand
+177,4.318,Stand,Stand
+178,4.342,Stand,Stand
+179,4.363,Stand,Stand
+180,4.386,Stand,Stand
+181,4.406,Stand,Stand
+182,4.429,Stand,Stand
+183,4.451,Stand,Stand
+184,4.477,Stand,Stand
+185,4.495,Stand,Stand
+186,4.516,Stand,Stand
+187,4.541,Stand,Stand
+188,4.561,Stand,Stand
+189,4.583,Stand,Stand
+190,4.605,Stand,Stand
+191,4.627,Stand,Stand
+192,4.649,Stand,Stand
+193,4.671,Stand,Stand
+194,4.693,Stand,Stand
+195,4.716,Stand,Stand
+196,4.737,Stand,Stand
+197,4.759,Stand,Stand
+198,4.781,Stand,Stand
+199,4.803,Stand,Stand
+200,4.825,Stand,Stand
+201,4.852,Stand,Stand
+202,4.872,Stand,Stand
+203,4.892,Stand,Stand
+204,4.913,Stand,Stand
+205,4.936,Stand,Stand
+206,4.957,Stand,Stand
+207,4.979,Stand,Stand
+208,5.002,Stand,Stand
+209,5.023,Stand,Stand
+210,5.046,Stand,Stand
+211,5.069,Stand,Stand
+212,5.109,Stand,Stand
+213,5.123,Stand,Stand
+214,5.146,Stand,Stand
+215,5.168,Stand,Stand
+216,5.193,Stand,Stand
+217,5.214,Stand,Stand
+218,5.237,Stand,Stand
+219,5.258,Stand,Stand
+220,5.279,Stand,Stand
+221,5.301,Stand,Stand
+222,5.323,Stand,Stand
+223,5.349,Stand,Stand
+224,5.369,Stand,Stand
+225,5.392,Stand,Stand
+226,5.411,Stand,Stand
+227,5.433,Stand,Stand
+228,5.455,Stand,Stand
+229,5.477,Stand,Stand
+230,5.499,Stand,Stand
+231,5.526,Stand,Stand
+232,5.544,Stand,Stand
+233,5.566,Stand,Stand
+234,5.588,Stand,Stand
+235,5.61,Stand,Stand
+236,5.631,Stand,Stand
+237,5.655,Stand,Stand
+238,5.675,Stand,Stand
+239,5.697,Stand,Stand
+240,5.721,Stand,Stand
+241,5.743,Stand,Stand
+242,5.764,Stand,Stand
+243,5.786,Stand,Stand
+244,5.808,Stand,Stand
+245,5.831,Stand,Stand
+246,5.853,Stand,Stand
+247,5.875,Stand,Stand
+248,5.897,Stand,Stand
+249,5.919,Stand,Stand
+250,5.941,Stand,Stand
+251,5.963,Stand,Stand
+252,5.984,Stand,Stand
+253,6.006,Stand,Stand
+254,6.03,Stand,Stand
+255,6.053,Stand,Stand
+256,6.077,Stand,Stand
+257,6.096,Stand,Stand
+258,6.117,Stand,Stand
+259,6.138,Stand,Stand
+260,6.162,Stand,Stand
+261,6.183,Stand,Stand
+262,6.204,Stand,Stand
+263,6.226,Stand,Stand
+264,6.249,Stand,Stand
+265,6.27,Stand,Stand
+266,6.293,Stand,Stand
+267,6.315,Stand,Stand
+268,6.337,Stand,Stand
+269,6.359,Stand,Stand
+270,6.381,Stand,Stand
+271,6.403,Stand,Stand
+272,6.425,Stand,Stand
+273,6.447,Stand,Stand
+274,6.469,Stand,Stand
+275,6.492,Stand,Stand
+276,6.513,Stand,Stand
+277,6.536,Stand,Stand
+278,6.557,Stand,Stand
+279,6.58,Stand,Stand
+280,6.604,Stand,Stand
+281,6.625,Stand,Stand
+282,6.648,Stand,Stand
+283,6.668,Stand,Stand
+284,6.689,Stand,Stand
+285,6.713,Stand,Stand
+286,6.735,Stand,Stand
+287,6.755,Stand,Stand
+288,6.776,Stand,Stand
+289,6.8,Stand,Stand
+290,6.822,Stand,Stand
+291,6.843,Stand,Stand
+292,6.867,Stand,Stand
+293,6.889,Stand,Stand
+294,6.911,Stand,Stand
+295,6.933,Stand,Stand
+296,6.955,Stand,Stand
+297,6.979,Stand,Stand
+298,6.999,Stand,Stand
+299,7.021,Stand,Stand
+300,7.042,Stand,Stand
+301,7.065,Stand,Stand
+302,7.094,Stand,Stand
+303,7.116,Stand,Stand
+304,7.14,Stand,Stand
+305,7.162,Stand,Stand
+306,7.184,Start to walk,Stand
+307,7.206,Start to walk,Stand
+308,7.229,Start to walk,Stand
+309,7.249,Start to walk,Stand
+310,7.272,Start to walk,Stand
+311,7.294,Start to walk,Stand
+312,7.316,Start to walk,Stand
+313,7.34,Start to walk,Stand
+314,7.36,Start to walk,Stand
+315,7.383,Start to walk,Stand
+316,7.403,Start to walk,Stand
+317,7.426,Start to walk,Stand
+318,7.448,Start to walk,Stand
+319,7.471,Start to walk,Stand
+320,7.492,Start to walk,Stand
+321,7.513,Start to walk,Stand
+322,7.535,Start to walk,Stand
+323,7.559,Start to walk,Stand
+324,7.579,Start to walk,Stand
+325,7.601,Start to walk,Stand
+326,7.623,Start to walk,Stand
+327,7.648,Start to walk,Stand
+328,7.668,Start to walk,Stand
+329,7.689,Start to walk,Stand
+330,7.711,Start to walk,Stand
+331,7.735,Start to walk,Stand
+332,7.756,Start to walk,Stand
+333,7.778,Start to walk,Stand
+334,7.8,Start to walk,Stand
+335,7.825,Start to walk,Stand
+336,7.845,Start to walk,Stand
+337,7.867,Start to walk,Stand
+338,7.889,Start to walk,Stand
+339,7.911,Start to walk,Stand
+340,7.933,Start to walk,Stand
+341,7.955,Start to walk,Stand
+342,7.977,Start to walk,Stand
+343,7.999,Walk,Stand
+344,8.021,Walk,Stand
+345,8.043,Walk,Stand
+346,8.065,Walk,Stand
+347,8.092,Walk,Stand
+348,8.11,Walk,Stand
+349,8.131,Walk,Stand
+350,8.153,Walk,Stand
+351,8.175,Walk,Stand
+352,8.197,Walk,Stand
+353,8.219,Walk,Stand
+354,8.241,Walk,Start to walk
+355,8.263,Walk,Start to walk
+356,8.285,Walk,Start to walk
+357,8.307,Walk,Start to walk
+358,8.329,Walk,Walk
+359,8.352,Walk,Start to walk
+360,8.374,Walk,Start to walk
+361,8.396,Walk,Start to walk
+362,8.418,Walk,Start to walk
+363,8.439,Walk,Start to walk
+364,8.467,Walk,Start to walk
+365,8.492,Walk,Start to walk
+366,8.506,Walk,Start to walk
+367,8.528,Walk,Start to walk
+368,8.549,Walk,Start to walk
+369,8.572,Walk,Start to walk
+370,8.593,Walk,Start to walk
+371,8.616,Walk,Start to walk
+372,8.638,Walk,Stand
+373,8.66,Walk,Stand
+374,8.682,Walk,Stand
+375,8.704,Walk,Stand
+376,8.726,Walk,Stand
+377,8.748,Walk,Stand
+378,8.77,Walk,Walk
+379,8.793,Walk,Walk
+380,8.815,Walk,Start to walk
+381,8.837,Walk,Start to walk
+382,8.859,Walk,Start to walk
+383,8.881,Walk,Start to walk
+384,8.903,Walk,Start to walk
+385,8.925,Walk,Start to walk
+386,8.947,Walk,Start to walk
+387,8.969,Walk,Start to walk
+388,8.992,Walk,Start to walk
+389,9.013,Walk,Stand
+390,9.035,Walk,Stand
+391,9.057,Walk,Stand
+392,9.079,Walk,Stand
+393,9.107,Walk,Stand
+394,9.124,Walk,Stand
+395,9.143,Walk,Walk
+396,9.166,Walk,Stand
+397,9.189,Walk,Stand
+398,9.21,Walk,Walk
+399,9.232,Walk,Stand
+400,9.254,Walk,Stand
+401,9.276,Walk,Stand
+402,9.3,Walk,Stand
+403,9.327,Walk,Stand
+404,9.344,Walk,Stand
+405,9.365,Walk,Stand
+406,9.388,Walk,Stand
+407,9.411,Walk,Stand
+408,9.432,Walk,Stand
+409,9.455,Walk,Stand
+410,9.476,Walk,Stand
+411,9.498,Walk,Stand
+412,9.519,Walk,Stand
+413,9.542,Walk,Stand
+414,9.564,Walk,Stand
+415,9.586,Walk,Stand
+416,9.611,Walk,Stand
+417,9.63,Walk,Stand
+418,9.652,Walk,Stand
+419,9.674,Walk,Stand
+420,9.696,Walk,Stand
+421,9.718,Walk,Stand
+422,9.744,Walk,Stand
+423,9.763,Walk,Stand
+424,9.784,Walk,Stand
+425,9.806,Walk,Stand
+426,9.828,Walk,Stand
+427,9.85,Walk,Stand
+428,9.873,Walk,Stand
+429,9.894,Walk,Stand
+430,9.917,Walk,Stand
+431,9.94,Walk,Stand
+432,9.961,Walk,Stand
+433,9.983,Walk,Stand
+434,10.005,Walk,Stand
+435,10.027,Walk,Stand
+436,10.049,Walk,Stand
+437,10.071,Walk,Stand
+438,10.098,Walk,Stand
+439,10.134,Walk,Stand
+440,10.153,Walk,Stand
+441,10.177,Walk,Stand
+442,10.198,Walk,Stand
+443,10.221,Walk,Stand
+444,10.248,Walk,Stand
+445,10.269,Walk,Stand
+446,10.292,Walk,Stand
+447,10.314,Walk,Start to walk
+448,10.335,Walk,Start to walk
+449,10.358,Walk,Stand
+450,10.382,Walk,Walk
+451,10.406,Walk,Start to walk
+452,10.428,Walk,Start to walk
+453,10.449,Walk,Start to walk
+454,10.473,Walk,Start to walk
+455,10.496,Walk,Start to walk
+456,10.517,Walk,Start to walk
+457,10.538,Walk,Start to walk
+458,10.559,Walk,Start to walk
+459,10.583,Walk,Start to walk
+460,10.604,Walk,Stand
+461,10.626,Walk,Stand
+462,10.648,Walk,Stand
+463,10.67,Walk,Stand
+464,10.693,Walk,Stand
+465,10.716,Start to Run,Stand
+466,10.736,Start to Run,Stand
+467,10.758,Start to Run,Stand
+468,10.782,Start to Run,Start to walk
+469,10.803,Start to Run,Stand
+470,10.824,Start to Run,Stand
+471,10.847,Start to Run,Stand
+472,10.869,Start to Run,Start to walk
+473,10.891,Start to Run,Start to walk
+474,10.913,Start to Run,Start to walk
+475,10.937,Start to Run,Start to walk
+476,10.957,Start to Run,Start to walk
+477,10.979,Start to Run,Start to walk
+478,11,Start to Run,Start to walk
+479,11.023,Start to Run,Start to walk
+480,11.045,Start to Run,Start to walk
+481,11.067,Run,Stand
+482,11.091,Run,Start to walk
+483,11.116,Run,Start to walk
+484,11.133,Run,Start to walk
+485,11.155,Run,Start to walk
+486,11.177,Run,Start to walk
+487,11.198,Run,Start to walk
+488,11.22,Run,Start to walk
+489,11.244,Run,Start to walk
+490,11.265,Run,Stand
+491,11.287,Run,Start to walk
+492,11.309,Run,Stand
+493,11.331,Run,Start to walk
+494,11.353,Run,Stand
+495,11.376,Run,Stand
+496,11.397,Run,Stand
+497,11.419,Run,Stand
+498,11.441,Run,Run
+499,11.464,Run,Run
+500,11.486,Run,Run
+501,11.513,Run,Start to walk
+502,11.53,Run,Start to walk
+503,11.552,Run,Start to walk
+504,11.574,Run,Start to walk
+505,11.597,Run,Start to walk
+506,11.618,Run,Start to walk
+507,11.64,Run,Start to walk
+508,11.663,Run,Start to walk
+509,11.685,Run,Start to walk
+510,11.706,Run,Start to walk
+511,11.73,Run,Walk
+512,11.754,Run,Start to walk
+513,11.772,Run,Start to walk
+514,11.806,Run,Start to walk
+515,11.816,Run,Start to walk
+516,11.838,Run,Start to walk
+517,11.86,Run,Stand
+518,11.883,Run,Start to walk
+519,11.904,Run,Start to walk
+520,11.927,Run,Start to walk
+521,11.949,Run,Stand
+522,11.973,Run,Stand
+523,11.994,Run,Stand
+524,12.015,Run,Start to walk
+525,12.037,Run,Start to walk
+526,12.061,Run,Start to walk
+527,12.081,Run,Start to walk
+528,12.11,Run,Start to walk
+529,12.125,Run,Start to walk
+530,12.147,Run,Start to walk
+531,12.17,Run,Start to walk
+532,12.19,Run,Start to walk
+533,12.214,Run,Start to walk
+534,12.235,Run,Start to walk
+535,12.257,Run,Start to walk
+536,12.279,Run,Start to walk
+537,12.301,Run,Start to walk
+538,12.325,Run,Start to walk
+539,12.346,Run,Start to walk
+540,12.367,Run,Walk
+541,12.39,Run,Start to walk
+542,12.411,Run,Start to walk
+543,12.435,Run,Start to walk
+544,12.455,Run,Start to walk
+545,12.478,Run,Start to walk
+546,12.499,Run,Start to walk
+547,12.522,Run,Start to walk
+548,12.544,Run,Start to walk
+549,12.566,Run,Start to walk
+550,12.588,Run,Start to walk
+551,12.611,Run,Start to walk
+552,12.632,Run,Start to walk
+553,12.655,Run,Start to walk
+554,12.676,Run,Start to walk
+555,12.699,Run,Start to walk
+556,12.721,Run,Start to walk
+557,12.742,Run,Stand
+558,12.764,Run,Start to walk
+559,12.786,Run,Start to walk
+560,12.809,Run,Start to walk
+561,12.831,Run,Start to walk
+562,12.854,Run,Start to walk
+563,12.874,Run,Start to walk
+564,12.898,Run,Start to walk
+565,12.92,Run,Start to walk
+566,12.942,Run,Start to walk
+567,12.963,Run,Start to walk
+568,12.985,Run,Start to walk
+569,13.01,Run,Start to walk
+570,13.029,Run,Start to walk
+571,13.052,Run,Start to walk
+572,13.073,Run,Start to walk
+573,13.098,Run,Start to walk
+574,13.12,Run,Start to walk
+575,13.143,Run,Start to walk
+576,13.164,Run,Start to walk
+577,13.187,Start to walk,Start to walk
+578,13.209,Start to walk,Start to walk
+579,13.232,Start to walk,Start to walk
+580,13.254,Start to walk,Start to walk
+581,13.276,Start to walk,Start to walk
+582,13.298,Start to walk,Start to walk
+583,13.332,Start to walk,Start to walk
+584,13.345,Start to walk,Start to walk
+585,13.364,Start to walk,Start to walk
+586,13.385,Start to walk,Start to walk
+587,13.408,Start to walk,Start to walk
+588,13.43,Start to walk,Stand
+589,13.452,Start to walk,Stand
+590,13.474,Start to walk,Stand
+591,13.499,Start to walk,Stand
+592,13.518,Start to walk,Stand
+593,13.54,Start to walk,Stand
+594,13.562,Start to walk,Stand
+595,13.584,Start to walk,Stand
+596,13.608,Start to walk,Stand
+597,13.63,Start to walk,Stand
+598,13.652,Start to walk,Stand
+599,13.674,Start to walk,Stand
+600,13.696,Start to walk,Stand
+601,13.716,Start to walk,Stand
+602,13.739,Start to walk,Stand
+603,13.764,Start to walk,Stand
+604,13.784,Start to walk,Stand
+605,13.806,Start to walk,Stand
+606,13.829,Start to walk,Stand
+607,13.85,Start to walk,Stand
+608,13.871,Start to walk,Stand
+609,13.893,Start to walk,Stand
+610,13.915,Start to walk,Stand
+611,13.937,Start to walk,Stand
+612,13.959,Start to walk,Stand
+613,13.981,Start to walk,Stand
+614,14.004,Start to walk,Stand
+615,14.026,Start to walk,Stand
+616,14.047,Start to walk,Stand
+617,14.073,Start to walk,Stand
+618,14.091,Start to walk,Stand
+619,14.116,Start to walk,Stand
+620,14.137,Start to walk,Stand
+621,14.157,Walk,Stand
+622,14.177,Walk,Start to walk
+623,14.2,Walk,Start to walk
+624,14.222,Walk,Start to walk
+625,14.245,Walk,Start to walk
+626,14.269,Walk,Start to walk
+627,14.29,Walk,Start to walk
+628,14.312,Walk,Start to walk
+629,14.334,Walk,Stand
+630,14.359,Walk,Stand
+631,14.377,Walk,Stand
+632,14.399,Walk,Stand
+633,14.424,Walk,Stand
+634,14.443,Walk,Stand
+635,14.467,Walk,Stand
+636,14.488,Walk,Stand
+637,14.51,Walk,Stand
+638,14.532,Walk,Stand
+639,14.554,Walk,Stand
+640,14.576,Walk,Stand
+641,14.603,Walk,Stand
+642,14.632,Walk,Stand
+643,14.646,Walk,Stand
+644,14.668,Walk,Start to walk
+645,14.69,Walk,Start to walk
+646,14.712,Walk,Start to walk
+647,14.734,Walk,Start to walk
+648,14.757,Walk,Start to walk
+649,14.78,Walk,Start to walk
+650,14.802,Walk,Start to walk
+651,14.824,Walk,Start to walk
+652,14.849,Walk,Start to walk
+653,14.872,Walk,Start to walk
+654,14.893,Walk,Start to walk
+655,14.915,Walk,Stand
+656,14.938,Walk,Stand
+657,14.96,Walk,Stand
+658,14.981,Walk,Stand
+659,15.005,Walk,Stand
+660,15.026,Walk,Stand
+661,15.048,Walk,Stand
+662,15.07,Walk,Stand
+663,15.1,Walk,Stand
+664,15.119,Walk,Stand
+665,15.153,Walk,Stand
+666,15.174,Walk,Stand
+667,15.197,Walk,Stand
+668,15.219,Walk,Stand
+669,15.242,Walk,Stand
+670,15.263,Walk,Stand
+671,15.285,Walk,Start to walk
+672,15.308,Walk,Start to walk
+673,15.33,Walk,Start to walk
+674,15.358,Walk,Start to walk
+675,15.375,Walk,Start to walk
+676,15.397,Walk,Start to walk
+677,15.42,Walk,Start to walk
+678,15.44,Walk,Start to walk
+679,15.462,Walk,Stand
+680,15.484,Walk,Stand
+681,15.506,Walk,Stand
+682,15.528,Walk,Stand
+683,15.55,Walk,Stand
+684,15.573,Walk,Stand
+685,15.594,Walk,Stand
+686,15.617,Walk,Stand
+687,15.639,Walk,Stand
+688,15.661,Walk,Stand
+689,15.683,Walk,Stand
+690,15.705,Walk,Stand
+691,15.726,Walk,Stand
+692,15.748,Walk,Stand
+693,15.773,Walk,Stand
+694,15.792,Walk,Stand
+695,15.815,Walk,Stand
+696,15.836,Walk,Stand
+697,15.858,Walk,Stand
+698,15.881,Walk,Stand
+699,15.903,Walk,Stand
+700,15.926,Walk,Stand
+701,15.946,Walk,Stand
+702,15.968,Walk,Stand
+703,15.99,Walk,Stand
+704,16.012,Walk,Stand
+705,16.035,Walk,Stand
+706,16.057,Walk,Stand
+707,16.079,Walk,Stand
+708,16.101,Walk,Stand
+709,16.128,Walk,Stand
+710,16.146,Walk,Stand
+711,16.167,Walk,Stand
+712,16.188,Walk,Stand
+713,16.211,Walk,Stand
+714,16.233,Walk,Stand
+715,16.255,Walk,Stand
+716,16.279,Walk,Stand
+717,16.3,Walk,Stand
+718,16.324,Walk,Stand
+719,16.345,Walk,Stand
+720,16.366,Walk,Stand
+721,16.387,Walk,Stand
+722,16.41,Walk,Stand
+723,16.432,Walk,Stand
+724,16.454,Walk,Stand
+725,16.476,Walk,Stand
+726,16.498,Walk,Stand
+727,16.52,Walk,Stand
+728,16.544,Walk,Stand
+729,16.566,Walk,Stand
+730,16.588,Walk,Stand
+731,16.608,Walk,Stand
+732,16.631,Walk,Stand
+733,16.654,Walk,Stand
+734,16.673,Walk,Stand
+735,16.696,Walk,Stand
+736,16.718,Walk,Stand
+737,16.74,Walk,Stand
+738,16.762,Walk,Stand
+739,16.784,Walk,Stand
+740,16.806,Walk,Stand
+741,16.828,Walk,Stand
+742,16.85,Walk,Stand
+743,16.872,Walk,Stand
+744,16.894,Walk,Stand
+745,16.917,Walk,Stand
+746,16.939,Walk,Stand
+747,16.96,Walk,Stand
+748,16.983,Walk,Stand
+749,17.005,Walk,Stand
+750,17.029,Walk,Stand
+751,17.053,Walk,Stand
+752,17.075,Walk,Stand
+753,17.102,Walk,Stand
+754,17.125,Stand,Stand
+755,17.149,Stand,Stand
+756,17.168,Stand,Stand
+757,17.192,Stand,Stand
+758,17.212,Stand,Stand
+759,17.234,Stand,Stand
+760,17.256,Stand,Stand
+761,17.28,Stand,Stand
+762,17.3,Stand,Stand
+763,17.322,Stand,Stand
+764,17.344,Stand,Stand
+765,17.366,Stand,Stand
+766,17.389,Stand,Stand
+767,17.411,Stand,Stand
+768,17.433,Stand,Stand
+769,17.455,Stand,Stand
+770,17.477,Stand,Stand
+771,17.499,Stand,Stand
+772,17.521,Stand,Stand
+773,17.543,Stand,Stand
+774,17.566,Stand,Stand
+775,17.589,Stand,Stand
+776,17.61,Stand,Stand
+777,17.637,Stand,Stand
+778,17.652,Stand,Stand
+779,17.675,Stand,Stand
+780,17.707,Stand,Stand
+781,17.725,Stand,Stand
+782,17.745,Stand,Stand
+783,17.767,Stand,Stand
+784,17.79,Stand,Stand
+785,17.812,Stand,Stand
+786,17.833,Stand,Stand
+787,17.858,Stand,Stand
+788,17.877,Stand,Stand
+789,17.898,Stand,Stand
+790,17.92,Stand,Stand
+791,17.942,Stand,Stand
+792,17.964,Stand,Stand
+793,17.988,Stand,Stand
+794,18.011,Stand,Stand
+795,18.035,Stand,Stand
+796,18.057,Stand,Stand
+797,18.079,Stand,Stand
+798,18.101,Stand,Stand
+799,18.123,Stand,Stand
+800,18.146,Stand,Stand
+801,18.167,Stand,Stand
+802,18.189,Stand,Stand
+803,18.212,Stand,Stand
+804,18.234,Stand,Stand
+805,18.256,Stand,Stand
+806,18.284,Stand,Stand
+807,18.306,Stand,Stand
+808,18.33,Stand,Stand
+809,18.354,Stand,Stand
+810,18.374,Stand,Stand
+811,18.398,Stand,Stand
+812,18.418,Stand,Stand
+813,18.44,Stand,Stand
+814,18.462,Stand,Stand
+815,18.485,Stand,Stand
+816,18.508,Stand,Stand
+817,18.531,Stand,Stand
+818,18.554,Stand,Stand
+819,18.573,Stand,Stand
+820,18.595,Stand,Stand
+821,18.62,Stand,Stand
+822,18.639,Stand,Stand
+823,18.663,Stand,Stand
+824,18.683,Stand,Stand
+825,18.705,Stand,Stand
+826,18.729,Stand,Stand
+827,18.749,Stand,Stand
+828,18.771,Stand,Stand
+829,18.796,Stand,Stand
+830,18.817,Stand,Stand
+831,18.838,Stand,Stand
+832,18.861,Stand,Stand
+833,18.882,Stand,Stand
+834,18.905,Stand,Stand
+835,18.928,Stand,Stand
+836,18.948,Stand,Stand
+837,18.972,Stand,Stand
+838,18.992,Stand,Stand
+839,19.016,Stand,Stand
+840,19.037,Stand,Stand
+841,19.059,Stand,Stand
+842,19.08,Stand,Stand
+843,19.103,Stand,Stand
+844,19.125,Stand,Stand
+845,19.148,Stand,Stand
+846,19.168,Stand,Stand
+847,19.191,Stand,Stand
+848,19.213,Stand,Stand
+849,19.235,Stand,Stand
+850,19.257,Stand,Stand
+851,19.278,Stand,Stand
+852,19.302,Stand,Stand
+853,19.325,Stand,Stand
+854,19.345,Stand,Stand
+855,19.366,Stand,Stand
+856,19.391,Stand,Stand
+857,19.411,Stand,Stand
+858,19.434,Stand,Stand
+859,19.455,Stand,Stand
+860,19.477,Stand,Stand
+861,19.501,Stand,Stand
+862,19.523,Stand,Stand
+863,19.543,Stand,Stand
+864,19.567,Stand,Stand
+865,19.587,Stand,Stand
+866,19.613,Stand,Stand
+867,19.632,Stand,Stand
+868,19.656,Stand,Stand
+869,19.675,Stand,Stand
+870,19.698,Stand,Stand
+871,19.721,Stand,Stand
+872,19.742,Stand,Stand
+873,19.764,Stand,Stand
+874,19.785,Stand,Stand
+875,19.809,Stand,Stand
+876,19.829,Stand,Stand
+877,19.851,Stand,Stand
+878,19.873,Stand,Stand
+879,19.895,Stand,Stand
+880,19.918,Stand,Stand
+881,19.94,Stand,Stand
+882,19.962,Stand,Stand
+883,19.984,Stand,Stand
+884,20.006,Stand,Stand
+885,20.027,Stand,Stand
+886,20.052,Stand,Stand
+887,20.073,Stand,Stand
+888,20.097,Stand,Stand
+889,20.12,Stand,Stand
+890,20.142,Stand,Stand
+891,20.167,Stand,Stand
+892,20.186,Stand,Stand
+893,20.209,Stand,Stand
+894,20.23,Stand,Stand
+895,20.252,Stand,Stand
+896,20.274,Stand,Stand
+897,20.296,Stand,Stand
+898,20.318,Stand,Stand
+899,20.34,Stand,Stand
+900,20.362,Stand,Stand
+901,20.384,Stand,Stand
+902,20.412,Stand,Stand
+903,20.433,Stand,Stand
+904,20.455,Stand,Stand
+905,20.478,Stand,Stand
+906,20.502,Stand,Stand
+907,20.522,Stand,Stand
+908,20.547,Stand,Stand
+909,20.571,Stand,Stand
+910,20.594,Stand,Stand
+911,20.615,Stand,Stand
+912,20.636,Stand,Stand
+913,20.658,Stand,Stand
+914,20.68,Stand,Stand
+915,20.703,Stand,Stand
+916,20.726,Stand,Stand
+917,20.747,Stand,Stand
+918,20.768,Stand,Stand
+919,20.792,Stand,Stand
+920,20.814,Stand,Stand
+921,20.834,Stand,Stand
+922,20.857,Stand,Stand
+923,20.878,Stand,Stand
+924,20.902,Stand,Stand
+925,20.922,Stand,Stand
+926,20.944,Stand,Stand
+927,20.967,Stand,Stand
+928,20.991,Stand,Stand
+929,21.013,Stand,Stand
+930,21.035,Stand,Stand
+931,21.057,Stand,Stand
+932,21.078,Stand,Stand
+933,21.1,Stand,Stand
+934,21.122,Stand,Stand
+935,21.147,Stand,Stand
+936,21.166,Stand,Stand
+937,21.188,Stand,Stand
+938,21.21,Stand,Stand
+939,21.231,Stand,Stand
+940,21.254,Stand,Stand
+941,21.28,Stand,Stand
+942,21.304,Stand,Stand
+943,21.323,Stand,Stand
+944,21.343,Stand,Stand
+945,21.365,Stand,Stand
+946,21.386,Stand,Stand
+947,21.408,Stand,Stand
+948,21.43,Stand,Stand
+949,21.454,Stand,Stand
+950,21.476,Stand,Stand
+951,21.497,Stand,Stand
+952,21.52,Stand,Stand
+953,21.541,Stand,Stand
+954,21.563,Stand,Stand
+955,21.583,Stand,Stand
+956,21.609,Stand,Stand
+957,21.63,Stand,Stand
+958,21.651,Stand,Stand
+959,21.673,Stand,Stand
+960,21.695,Stand,Stand
+961,21.717,Stand,Stand
+962,21.739,Stand,Stand
+963,21.761,Stand,Stand
+964,21.783,Stand,Stand
+965,21.805,Stand,Stand
+966,21.827,Stand,Stand
+967,21.853,Stand,Stand
+968,21.872,Stand,Stand
+969,21.894,Stand,Stand
+970,21.916,Stand,Stand
+971,21.937,Stand,Stand
+972,21.959,Stand,Stand
+973,21.982,Stand,Stand
+974,22.004,Stand,Stand
+975,22.027,Stand,Stand
+976,22.049,Stand,Stand
+977,22.07,Stand,Stand
+978,22.092,Stand,Stand
+979,22.114,Stand,Stand
+980,22.139,Stand,Stand
+981,22.158,Stand,Stand
+982,22.18,Stand,Stand
+983,22.202,Stand,Stand
+984,22.224,Stand,Stand
+985,22.246,Stand,Stand
+986,22.269,Stand,Stand
+987,22.293,Stand,Stand
+988,22.314,Stand,Stand
+989,22.336,Stand,Stand
+990,22.358,Stand,Stand
+991,22.39,Stand,Stand
+992,22.412,Stand,Stand
+993,22.434,Stand,Stand
+994,22.456,Stand,Stand
+995,22.478,Stand,Stand
+996,22.501,Stand,Stand
+997,22.522,Stand,Stand
+998,23.138,Stand,Stand
+999,23.159,Stand,Stand
+1000,23.181,Stand,Stand
+1001,23.203,Stand,Stand
+1002,23.225,Stand,Stand
+1003,23.246,Stand,Stand
+1004,23.269,Stand,Stand
+1005,23.291,Stand,Stand
+1006,23.313,Stand,Stand
+1007,23.335,Stand,Stand
+1008,23.357,Stand,Stand
+1009,23.381,Stand,Stand
+1010,23.401,Stand,Stand
+1011,23.424,Stand,Stand
+1012,23.445,Stand,Stand
+1013,23.467,Stand,Stand
+1014,23.49,Stand,Stand
+1015,23.512,Stand,Stand
+1016,23.534,Stand,Stand
+1017,23.556,Stand,Stand
+1018,23.578,Stand,Stand
+1019,23.6,Stand,Stand
+1020,23.622,Stand,Stand
+1021,23.644,Stand,Stand
+1022,23.666,Stand,Stand
+1023,23.688,Stand,Stand
+1024,23.71,Stand,Stand
+1025,23.732,Stand,Stand
+1026,23.754,Stand,Stand
+1027,23.776,Stand,Stand
+1028,23.798,Stand,Stand
+1029,23.82,Stand,Stand
+1030,23.843,Stand,Stand
+1031,23.864,Stand,Stand
+1032,23.887,Stand,Stand
+1033,23.909,Stand,Stand
+1034,23.93,Stand,Stand
+1035,23.952,Stand,Stand
+1036,23.975,Stand,Stand
+1037,23.996,Stand,Stand
+1038,24.018,Stand,Stand
+1039,24.041,Stand,Stand
+1040,24.062,Stand,Stand
+1041,24.084,Stand,Stand
+1042,24.107,Stand,Stand
+1043,24.129,Stand,Stand
+1044,24.15,Stand,Stand
+1045,24.173,Stand,Stand
+1046,24.195,Stand,Stand
+1047,24.217,Stand,Stand
+1048,24.239,Stand,Stand
+1049,24.261,Stand,Stand
+1050,24.282,Stand,Stand
+1051,24.305,Stand,Stand
+1052,24.326,Stand,Stand
+1053,24.349,Stand,Stand
+1054,24.37,Stand,Stand
+1055,24.393,Stand,Stand
+1056,24.415,Stand,Stand
+1057,24.437,Stand,Stand
+1058,24.459,Stand,Stand
+1059,24.481,Stand,Stand
+1060,24.503,Stand,Stand
+1061,24.525,Stand,Stand
+1062,24.547,Stand,Stand
+1063,24.569,Stand,Stand
+1064,24.592,Stand,Stand
+1065,24.613,Stand,Stand
+1066,24.638,Stand,Stand
+1067,24.657,Stand,Stand
+1068,24.679,Stand,Stand
+1069,24.701,Stand,Stand
+1070,24.723,Stand,Stand
+1071,24.745,Stand,Stand
+1072,24.768,Stand,Stand
+1073,24.79,Stand,Stand
+1074,24.812,Stand,Stand
+1075,24.834,Stand,Stand
+1076,24.856,Stand,Stand
+1077,24.878,Stand,Stand
+1078,24.9,Stand,Stand
+1079,24.922,Stand,Stand
+1080,24.945,Stand,Stand
+1081,24.967,Stand,Stand
+1082,24.988,Stand,Stand
+1083,25.01,Stand,Stand
+1084,25.032,Stand,Stand
+1085,25.054,Stand,Stand
+1086,25.076,Stand,Stand
+1087,25.098,Stand,Stand
+1088,25.12,Stand,Stand
+1089,25.143,Stand,Stand
+1090,25.164,Stand,Stand
+1091,25.186,Stand,Stand
+1092,25.209,Stand,Stand
+1093,25.23,Stand,Stand
+1094,25.253,Stand,Stand
+1095,25.275,Stand,Stand
+1096,25.297,Stand,Stand
+1097,25.318,Stand,Stand
+1098,25.341,Stand,Stand
+1099,25.362,Stand,Stand
+1100,25.385,Stand,Stand
+1101,25.407,Stand,Stand
+1102,25.428,Stand,Stand
+1103,25.45,Stand,Stand
+1104,25.473,Stand,Stand
+1105,25.495,Stand,Stand
+1106,25.517,Stand,Stand
+1107,25.539,Stand,Stand
+1108,25.561,Stand,Stand
+1109,25.584,Stand,Stand
+1110,25.606,Stand,Stand
+1111,25.627,Stand,Stand
+1112,25.649,Stand,Stand
+1113,25.673,Stand,Stand
+1114,25.694,Stand,Stand
+1115,25.715,Stand,Stand
+1116,25.737,Stand,Stand
+1117,25.76,Stand,Stand
+1118,25.782,Stand,Stand
+1119,25.804,Stand,Stand
+1120,25.826,Stand,Stand
+1121,25.848,Stand,Stand
+1122,25.87,Stand,Stand
+1123,25.895,Stand,Stand
+1124,25.914,Stand,Stand
+1125,25.936,Stand,Stand
+1126,25.959,Stand,Stand
+1127,25.982,Stand,Stand
+1128,26.003,Stand,Stand
+1129,26.029,Stand,Stand
+1130,26.05,Stand,Stand
+1131,26.073,Stand,Stand
+1132,26.095,Stand,Stand
+1133,26.118,Stand,Stand
+1134,26.14,Stand,Stand
+1135,26.162,Stand,Stand
+1136,26.184,Stand,Stand
+1137,26.205,Stand,Stand
+1138,26.228,Stand,Stand
+1139,26.25,Stand,Stand
+1140,26.271,Stand,Stand
+1141,26.293,Stand,Stand
+1142,26.315,Stand,Stand
+1143,26.337,Stand,Stand
+1144,26.36,Stand,Stand
+1145,26.381,Stand,Stand
+1146,26.403,Stand,Stand
+1147,26.426,Stand,Start to walk
+1148,26.447,Stand,Start to walk
+1149,26.47,Stand,Start to walk
+1150,26.492,Stand,Start to walk
+1151,26.514,Stand,Start to walk
+1152,26.538,Stand,Stand
+1153,26.558,Stand,Stand
+1154,26.58,Stand,Stand
+1155,26.602,Stand,Stand
+1156,26.624,Stand,Stand
+1157,26.65,Stand,Stand
+1158,26.668,Stand,Stand
+1159,26.69,Stand,Stand
+1160,26.713,Stand,Stand
+1161,26.735,Stand,Stand
+1162,26.756,Stand,Stand
+1163,26.778,Stand,Stand
+1164,26.801,Stand,Stand
+1165,26.822,Stand,Stand
+1166,26.845,Stand,Stand
+1167,26.866,Stand,Stand
+1168,26.889,Stand,Stand
+1169,26.914,Stand,Stand
+1170,26.933,Stand,Stand
+1171,26.955,Stand,Stand
+1172,26.978,Stand,Stand
+1173,27.009,Stand,Stand
+1174,27.021,Stand,Stand
+1175,27.059,Stand,Start to walk
+1176,27.082,Stand,Start to walk
+1177,27.103,Stand,Start to walk
+1178,27.126,Stand,Start to walk
+1179,27.15,Stand,Start to walk
+1180,27.171,Stand,Start to walk
+1181,27.192,Stand,Start to walk
+1182,27.215,Stand,Start to walk
+1183,27.238,Stand,Start to walk
+1184,27.259,Stand,Start to walk
+1185,27.281,Stand,Start to walk
+1186,27.303,Stand,Start to walk
+1187,27.326,Stand,Start to walk
+1188,27.347,Stand,Start to walk
+1189,27.37,Stand,Start to walk
+1190,27.393,Stand,Start to walk
+1191,27.413,Stand,Start to walk
+1192,27.435,Stand,Start to walk
+1193,27.457,Stand,Stand
+1194,27.479,Stand,Start to walk
+1195,27.501,Stand,Start to walk
+1196,27.523,Stand,Start to walk
+1197,27.545,Stand,Start to walk
+1198,27.568,Stand,Start to walk
+1199,27.591,Stand,Start to walk
+1200,27.611,Stand,Start to walk
+1201,27.634,Stand,Start to walk
+1202,27.659,Stand,Start to walk
+1203,27.678,Stand,Stand
+1204,27.7,Stand,Stand
+1205,27.723,Stand,Stand
+1206,27.744,Stand,Stand
+1207,27.766,Stand,Stand
+1208,27.788,Stand,Stand
+1209,27.81,Stand,Stand
+1210,27.832,Stand,Stand
+1211,27.854,Stand,Stand
+1212,27.876,Stand,Stand
+1213,27.898,Stand,Stand
+1214,27.92,Stand,Stand
+1215,27.942,Stand,Stand
+1216,27.964,Stand,Start to walk
+1217,27.987,Stand,Start to walk
+1218,28.015,Stand,Start to walk
+1219,28.044,Stand,Start to walk
+1220,28.052,Stand,Stand
+1221,28.074,Stand,Stand
+1222,28.096,Stand,Stand
+1223,28.119,Stand,Start to walk
+1224,28.14,Stand,Start to walk
+1225,28.162,Stand,Start to walk
+1226,28.185,Stand,Start to walk
+1227,28.206,Stand,Start to walk
+1228,28.228,Stand,Start to walk
+1229,28.251,Stand,Start to walk
+1230,28.273,Stand,Start to walk
+1231,28.295,Stand,Start to walk
+1232,28.317,Stand,Start to walk
+1233,28.339,Stand,Start to walk
+1234,28.361,Stand,Start to walk
+1235,28.383,Stand,Start to walk
+1236,28.407,Stand,Start to walk
+1237,28.427,Stand,Start to walk
+1238,28.45,Stand,Stand
+1239,28.472,Stand,Stand
+1240,28.493,Stand,Stand
+1241,28.516,Stand,Start to walk
+1242,28.537,Stand,Start to walk
+1243,28.562,Stand,Start to walk
+1244,28.581,Stand,Start to walk
+1245,28.603,Stand,Start to walk
+1246,28.626,Start to walk,Start to walk
+1247,28.648,Start to walk,Start to walk
+1248,28.669,Start to walk,Start to walk
+1249,28.693,Start to walk,Start to walk
+1250,28.714,Start to walk,Start to walk
+1251,28.736,Start to walk,Start to walk
+1252,28.757,Start to walk,Start to walk
+1253,28.78,Start to walk,Start to walk
+1254,28.802,Start to walk,Start to walk
+1255,28.824,Start to walk,Start to walk
+1256,28.846,Start to walk,Start to walk
+1257,28.868,Start to walk,Start to walk
+1258,28.89,Start to walk,Stand
+1259,28.912,Start to walk,Stand
+1260,28.934,Start to walk,Stand
+1261,28.956,Start to walk,Stand
+1262,28.978,Start to walk,Stand
+1263,29.009,Start to walk,Stand
+1264,29.035,Start to walk,Stand
+1265,29.052,Walk,Stand
+1266,29.074,Walk,Stand
+1267,29.098,Walk,Stand
+1268,29.119,Walk,Stand
+1269,29.141,Walk,Stand
+1270,29.163,Walk,Stand
+1271,29.184,Walk,Stand
+1272,29.207,Walk,Stand
+1273,29.229,Walk,Stand
+1274,29.251,Walk,Stand
+1275,29.274,Walk,Stand
+1276,29.295,Walk,Stand
+1277,29.317,Walk,Stand
+1278,29.341,Walk,Stand
+1279,29.365,Walk,Stand
+1280,29.383,Walk,Stand
+1281,29.408,Walk,Stand
+1282,29.428,Walk,Stand
+1283,29.449,Walk,Stand
+1284,29.471,Walk,Stand
+1285,29.494,Walk,Stand
+1286,29.515,Walk,Stand
+1287,29.538,Walk,Stand
+1288,29.56,Walk,Stand
+1289,29.583,Walk,Stand
+1290,29.604,Walk,Stand
+1291,29.636,Walk,Stand
+1292,29.652,Walk,Stand
+1293,29.67,Walk,Stand
+1294,29.692,Walk,Stand
+1295,29.714,Walk,Stand
+1296,29.737,Walk,Stand
+1297,29.758,Walk,Stand
+1298,29.78,Walk,Stand
+1299,29.803,Walk,Stand
+1300,29.825,Walk,Stand
+1301,29.847,Walk,Stand
+1302,29.869,Walk,Stand
+1303,29.891,Walk,Stand
+1304,29.915,Walk,Stand
+1305,29.94,Walk,Stand
+1306,29.96,Walk,Stand
+1307,29.984,Walk,Stand
+1308,30.004,Walk,Stand
+1309,30.026,Walk,Stand
+1310,30.048,Walk,Stand
+1311,30.071,Walk,Stand
+1312,30.093,Walk,Stand
+1313,30.116,Walk,Stand
+1314,30.136,Walk,Stand
+1315,30.161,Walk,Stand
+1316,30.182,Walk,Stand
+1317,30.203,Walk,Stand
+1318,30.225,Walk,Stand
+1319,30.248,Walk,Stand
+1320,30.27,Walk,Stand
+1321,30.292,Walk,Stand
+1322,30.314,Walk,Stand
+1323,30.336,Walk,Stand
+1324,30.358,Walk,Stand
+1325,30.38,Walk,Stand
+1326,30.402,Walk,Stand
+1327,30.424,Walk,Stand
+1328,30.446,Walk,Stand
+1329,30.469,Walk,Stand
+1330,30.49,Walk,Stand
+1331,30.512,Walk,Stand
+1332,30.534,Walk,Stand
+1333,30.556,Walk,Stand
+1334,30.578,Walk,Stand
+1335,30.602,Walk,Stand
+1336,30.622,Walk,Stand
+1337,30.643,Walk,Stand
+1338,30.667,Walk,Stand
+1339,30.688,Walk,Stand
+1340,30.71,Walk,Start to walk
+1341,30.735,Walk,Start to walk
+1342,30.756,Walk,Start to walk
+1343,30.777,Walk,Start to walk
+1344,30.799,Walk,Start to walk
+1345,30.821,Walk,Start to walk
+1346,30.843,Walk,Start to walk
+1347,30.865,Walk,Start to walk
+1348,30.887,Walk,Start to walk
+1349,30.91,Walk,Start to walk
+1350,30.933,Walk,Start to walk
+1351,30.953,Walk,Start to walk
+1352,30.976,Walk,Start to walk
+1353,30.997,Walk,Start to walk
+1354,31.023,Walk,Start to walk
+1355,31.04,Walk,Start to walk
+1356,31.061,Walk,Start to walk
+1357,31.084,Start to Run,Start to walk
+1358,31.106,Start to Run,Start to walk
+1359,31.129,Start to Run,Start to walk
+1360,31.151,Start to Run,Start to walk
+1361,31.175,Start to Run,Start to walk
+1362,31.196,Start to Run,Start to walk
+1363,31.217,Start to Run,Start to walk
+1364,31.239,Start to Run,Start to walk
+1365,31.262,Start to Run,Start to walk
+1366,31.283,Start to Run,Start to walk
+1367,31.305,Start to Run,Start to walk
+1368,31.328,Start to Run,Start to walk
+1369,31.349,Start to Run,Start to walk
+1370,31.373,Start to Run,Start to walk
+1371,31.393,Start to Run,Start to walk
+1372,31.415,Start to Run,Start to walk
+1373,31.438,Start to Run,Start to walk
+1374,31.46,Start to Run,Start to walk
+1375,31.482,Start to Run,Start to walk
+1376,31.504,Run,Stand
+1377,31.526,Run,Start to walk
+1378,31.548,Run,Start to walk
+1379,31.57,Run,Start to walk
+1380,31.592,Run,Stand
+1381,31.614,Run,Stand
+1382,31.636,Run,Stand
+1383,31.658,Run,Stand
+1384,31.681,Run,Start to walk
+1385,31.702,Run,Walk
+1386,31.724,Run,Walk
+1387,31.747,Run,Start to walk
+1388,31.768,Run,Start to walk
+1389,31.791,Run,Start to walk
+1390,31.813,Run,Start to walk
+1391,31.835,Run,Start to walk
+1392,31.857,Run,Start to walk
+1393,31.879,Run,Start to walk
+1394,31.901,Run,Start to walk
+1395,31.925,Run,Start to walk
+1396,31.945,Run,Start to walk
+1397,31.968,Run,Start to walk
+1398,31.989,Run,Start to walk
+1399,32.011,Run,Start to walk
+1400,32.06,Run,Start to walk
+1401,32.069,Run,Start to walk
+1402,32.089,Run,Start to walk
+1403,32.111,Run,Start to walk
+1404,32.134,Run,Start to walk
+1405,32.156,Run,Stand
+1406,32.179,Run,Stand
+1407,32.2,Run,Stand
+1408,32.224,Run,Stand
+1409,32.245,Run,Stand
+1410,32.266,Run,Start to walk
+1411,32.288,Run,Start to walk
+1412,32.311,Run,Stand
+1413,32.332,Run,Start to walk
+1414,32.356,Run,Start to walk
+1415,32.377,Run,Start to walk
+1416,32.399,Run,Start to walk
+1417,32.421,Run,Start to walk
+1418,32.443,Run,Start to walk
+1419,32.465,Run,Start to walk
+1420,32.487,Run,Start to walk
+1421,32.509,Run,Start to walk
+1422,32.532,Run,Start to walk
+1423,32.553,Run,Walk
+1424,32.575,Run,Walk
+1425,32.598,Run,Start to walk
+1426,32.619,Run,Walk
+1427,32.642,Run,Start to walk
+1428,32.664,Run,Start to walk
+1429,32.685,Run,Start to walk
+1430,32.708,Run,Start to walk
+1431,32.731,Run,Start to walk
+1432,32.751,Run,Start to walk
+1433,32.773,Run,Start to walk
+1434,32.795,Run,Start to walk
+1435,32.817,Run,Start to walk
+1436,32.843,Run,Stand
+1437,32.862,Run,Stand
+1438,32.883,Run,Stand
+1439,32.906,Run,Start to walk
+1440,32.932,Run,Start to walk
+1441,32.952,Run,Start to walk
+1442,32.973,Run,Start to walk
+1443,32.994,Run,Start to walk
+1444,33.016,Run,Start to walk
+1445,33.048,Run,Start to walk
+1446,33.06,Run,Start to walk
+1447,33.081,Run,Start to walk
+1448,33.105,Run,Start to walk
+1449,33.126,Run,Start to walk
+1450,33.149,Run,Start to walk
+1451,33.171,Run,Start to walk
+1452,33.192,Run,Start to walk
+1453,33.219,Run,Start to walk
+1454,33.237,Run,Start to walk
+1455,33.258,Run,Start to walk
+1456,33.28,Run,Start to walk
+1457,33.302,Run,Start to walk
+1458,33.324,Run,Start to walk
+1459,33.346,Run,Start to walk
+1460,33.368,Run,Stand
+1461,33.391,Start to walk,Start to walk
+1462,33.413,Start to walk,Start to walk
+1463,33.434,Start to walk,Start to walk
+1464,33.457,Start to walk,Start to walk
+1465,33.479,Start to walk,Start to walk
+1466,33.501,Start to walk,Start to walk
+1467,33.522,Start to walk,Start to walk
+1468,33.546,Start to walk,Start to walk
+1469,33.571,Start to walk,Start to walk
+1470,33.59,Start to walk,Start to walk
+1471,33.612,Start to walk,Start to walk
+1472,33.634,Start to walk,Stand
+1473,33.656,Start to walk,Start to walk
+1474,33.679,Start to walk,Start to walk
+1475,33.699,Start to walk,Stand
+1476,33.721,Start to walk,Start to walk
+1477,33.744,Start to walk,Start to walk
+1478,33.766,Start to walk,Start to walk
+1479,33.787,Start to walk,Stand
+1480,33.815,Start to walk,Stand
+1481,33.832,Start to walk,Start to walk
+1482,33.854,Walk,Start to walk
+1483,33.876,Walk,Start to walk
+1484,33.898,Walk,Start to walk
+1485,33.927,Walk,Start to walk
+1486,33.942,Walk,Start to walk
+1487,33.964,Walk,Start to walk
+1488,33.986,Walk,Start to walk
+1489,34.008,Walk,Start to walk
+1490,34.033,Walk,Start to walk
+1491,34.054,Walk,Start to walk
+1492,34.074,Walk,Start to walk
+1493,34.096,Walk,Start to walk
+1494,34.118,Walk,Start to walk
+1495,34.14,Walk,Stand
+1496,34.163,Walk,Stand
+1497,34.186,Walk,Stand
+1498,34.206,Walk,Stand
+1499,34.229,Walk,Stand
+1500,34.25,Walk,Stand
+1501,34.273,Walk,Stand
+1502,34.295,Walk,Stand
+1503,34.316,Walk,Stand
+1504,34.338,Walk,Stand
+1505,34.361,Walk,Stand
+1506,34.383,Walk,Stand
+1507,34.405,Walk,Stand
+1508,34.427,Walk,Stand
+1509,34.449,Walk,Stand
+1510,34.471,Walk,Stand
+1511,34.493,Walk,Stand
+1512,34.515,Walk,Stand
+1513,34.537,Walk,Stand
+1514,34.559,Walk,Stand
+1515,34.581,Walk,Stand
+1516,34.603,Walk,Stand
+1517,34.63,Walk,Stand
+1518,34.647,Walk,Stand
+1519,34.67,Walk,Stand
+1520,34.692,Walk,Stand
+1521,34.713,Walk,Stand
+1522,34.736,Walk,Stand
+1523,34.757,Walk,Walk
+1524,34.779,Walk,Start to walk
+1525,34.801,Walk,Start to walk
+1526,34.823,Walk,Start to walk
+1527,34.846,Walk,Start to walk
+1528,34.868,Walk,Start to walk
+1529,34.89,Walk,Start to walk
+1530,34.912,Walk,Start to walk
+1531,34.934,Walk,Start to walk
+1532,34.956,Walk,Start to walk
+1533,34.978,Walk,Start to walk
+1534,35,Walk,Start to walk
+1535,35.022,Walk,Start to walk
+1536,35.049,Walk,Stand
+1537,35.071,Walk,Stand
+1538,35.092,Walk,Stand
+1539,35.114,Walk,Stand
+1540,35.137,Walk,Stand
+1541,35.158,Walk,Stand
+1542,35.181,Walk,Stand
+1543,35.203,Walk,Stand
+1544,35.225,Walk,Stand
+1545,35.247,Walk,Stand
+1546,35.268,Walk,Stand
+1547,35.291,Walk,Stand
+1548,35.313,Walk,Stand
+1549,35.335,Walk,Stand
+1550,35.359,Walk,Stand
+1551,35.379,Walk,Stand
+1552,35.401,Walk,Stand
+1553,35.426,Walk,Stand
+1554,35.445,Walk,Stand
+1555,35.467,Walk,Stand
+1556,35.489,Walk,Stand
+1557,35.511,Walk,Walk
+1558,35.533,Walk,Stand
+1559,35.555,Walk,Stand
+1560,35.577,Walk,Stand
+1561,35.599,Walk,Stand
+1562,35.621,Walk,Stand
+1563,35.643,Walk,Stand
+1564,35.666,Walk,Stand
+1565,35.687,Walk,Stand
+1566,35.71,Walk,Stand
+1567,35.732,Walk,Stand
+1568,35.753,Walk,Stand
+1569,35.777,Walk,Stand
+1570,35.798,Walk,Stand
+1571,35.819,Walk,Stand
+1572,35.843,Walk,Stand
+1573,35.863,Walk,Stand
+1574,35.891,Walk,Stand
+1575,35.915,Walk,Stand
+1576,35.934,Walk,Start to walk
+1577,35.955,Walk,Start to walk
+1578,35.98,Walk,Start to walk
+1579,36,Walk,Start to walk
+1580,36.023,Walk,Start to walk
+1581,36.045,Walk,Start to walk
+1582,36.065,Walk,Start to walk
+1583,36.088,Walk,Start to walk
+1584,36.11,Walk,Start to walk
+1585,36.132,Walk,Start to walk
+1586,36.155,Walk,Start to walk
+1587,36.176,Walk,Stand
+1588,36.198,Walk,Stand
+1589,36.224,Walk,Stand
+1590,36.242,Walk,Stand
+1591,36.264,Walk,Stand
+1592,36.286,Walk,Stand
+1593,36.309,Walk,Stand
+1594,36.331,Walk,Stand
+1595,36.353,Walk,Stand
+1596,36.375,Walk,Stand
+1597,36.397,Walk,Stand
+1598,36.42,Walk,Stand
+1599,36.441,Walk,Stand
+1600,36.463,Walk,Stand
+1601,36.485,Walk,Stand
+1602,36.507,Walk,Stand
+1603,36.529,Walk,Stand
+1604,36.551,Walk,Stand
+1605,36.573,Walk,Stand
+1606,36.596,Walk,Stand
+1607,36.618,Walk,Stand
+1608,36.64,Walk,Stand
+1609,36.662,Walk,Stand
+1610,36.684,Walk,Stand
+1611,36.706,Walk,Stand
+1612,36.728,Walk,Stand
+1613,36.75,Walk,Stand
+1614,36.772,Walk,Stand
+1615,36.794,Walk,Stand
+1616,36.816,Walk,Stand
+1617,36.838,Walk,Stand
+1618,36.86,Walk,Stand
+1619,36.88,Walk,Stand
+1620,36.902,Walk,Stand
+1621,36.924,Walk,Stand
+1622,37.16,Walk,Stand
+1623,37.181,Walk,Stand
+1624,37.203,Walk,Stand
+1625,37.225,Walk,Stand
+1626,37.247,Walk,Stand
+1627,37.269,Stand,Stand
+1628,37.291,Stand,Stand
+1629,37.314,Stand,Stand
+1630,37.335,Stand,Stand
+1631,37.358,Stand,Stand
+1632,37.38,Stand,Stand
+1633,37.401,Stand,Stand
+1634,37.423,Stand,Stand
+1635,37.445,Stand,Stand
+1636,37.468,Stand,Stand
+1637,37.489,Stand,Stand
+1638,37.512,Stand,Stand
+1639,37.533,Stand,Stand
+1640,37.556,Stand,Stand
+1641,37.577,Stand,Stand
+1642,37.6,Stand,Stand
+1643,37.622,Stand,Stand
+1644,37.643,Stand,Stand
+1645,37.666,Stand,Stand
+1646,37.688,Stand,Stand
+1647,37.71,Stand,Stand
+1648,37.732,Stand,Stand
+1649,37.754,Stand,Stand
+1650,37.776,Stand,Stand
+1651,37.798,Stand,Stand
+1652,37.82,Stand,Stand
+1653,37.843,Stand,Stand
+1654,37.864,Stand,Stand
+1655,37.886,Stand,Stand
+1656,37.911,Stand,Stand
+1657,37.93,Stand,Stand
+1658,37.953,Stand,Stand
+1659,37.975,Stand,Stand
+1660,37.997,Stand,Stand
+1661,38.019,Stand,Stand
+1662,38.041,Stand,Walk
+1663,38.062,Stand,Stand
+1664,38.084,Stand,Stand
+1665,38.106,Stand,Stand
+1666,38.129,Stand,Stand
+1667,38.151,Stand,Stand
+1668,38.173,Stand,Stand
+1669,38.194,Stand,Stand
+1670,38.216,Stand,Stand
+1671,38.239,Stand,Stand
+1672,38.261,Stand,Stand
+1673,38.283,Stand,Stand
+1674,38.305,Stand,Stand
+1675,38.327,Stand,Stand
+1676,38.349,Stand,Stand
+1677,38.371,Stand,Stand
+1678,38.393,Stand,Stand
+1679,38.416,Stand,Stand
+1680,38.437,Stand,Stand
+1681,38.459,Stand,Stand
+1682,38.481,Stand,Stand
+1683,38.503,Stand,Stand
+1684,38.525,Stand,Stand
+1685,38.547,Stand,Stand
+1686,38.569,Stand,Stand
+1687,38.592,Stand,Stand
+1688,38.613,Stand,Stand
+1689,38.636,Stand,Stand
+1690,38.658,Stand,Stand
+1691,38.68,Stand,Stand
+1692,38.702,Stand,Stand
+1693,38.724,Stand,Stand
+1694,38.746,Stand,Stand
+1695,38.768,Stand,Stand
+1696,38.79,Stand,Stand
+1697,38.812,Stand,Stand
+1698,38.834,Stand,Stand
+1699,38.856,Stand,Stand
+1700,38.879,Stand,Stand
+1701,38.9,Stand,Stand
+1702,38.922,Stand,Stand
+1703,38.944,Stand,Stand
+1704,38.967,Stand,Stand
+1705,38.988,Stand,Stand
+1706,39.011,Stand,Stand
+1707,39.032,Stand,Stand
+1708,39.054,Stand,Stand
+1709,39.076,Stand,Stand
+1710,39.098,Stand,Stand
+1711,39.12,Stand,Stand
+1712,39.142,Stand,Stand
+1713,39.167,Stand,Stand
+1714,39.186,Stand,Stand
+1715,39.209,Stand,Stand
+1716,39.231,Stand,Stand
+1717,39.253,Stand,Stand
+1718,39.275,Stand,Stand
+1719,39.297,Stand,Stand
+1720,39.319,Stand,Stand
+1721,39.341,Stand,Stand
+1722,39.364,Stand,Stand
+1723,39.385,Stand,Stand
+1724,39.408,Stand,Stand
+1725,39.429,Stand,Stand
+1726,39.451,Stand,Stand
+1727,39.473,Stand,Stand
+1728,39.496,Stand,Stand
+1729,39.518,Stand,Stand
+1730,39.54,Stand,Stand
+1731,39.562,Stand,Stand
+1732,39.584,Stand,Stand
+1733,39.606,Stand,Stand
+1734,39.627,Stand,Stand
+1735,39.649,Stand,Stand
+1736,39.672,Stand,Stand
+1737,39.693,Stand,Stand
+1738,39.715,Stand,Stand
+1739,39.737,Stand,Stand
+1740,39.76,Stand,Stand
+1741,39.781,Stand,Stand
+1742,39.804,Stand,Stand
+1743,39.826,Stand,Stand
+1744,39.848,Stand,Stand
+1745,39.87,Stand,Stand
+1746,39.892,Stand,Stand
+1747,39.915,Stand,Stand
+1748,39.936,Stand,Stand
+1749,39.958,Stand,Stand
+1750,39.98,Stand,Stand
+1751,40.002,Stand,Stand
+1752,40.025,Stand,Stand
+1753,40.047,Stand,Stand
+1754,40.068,Stand,Stand
+1755,40.091,Stand,Stand
+1756,40.113,Stand,Stand
+1757,40.135,Stand,Stand
+1758,40.158,Stand,Stand
+1759,40.182,Stand,Stand
+1760,40.201,Stand,Stand
+1761,40.231,Stand,Stand
+1762,40.25,Stand,Stand
+1763,40.267,Stand,Stand
+1764,40.288,Stand,Stand
+1765,40.312,Stand,Stand
+1766,40.333,Stand,Stand
+1767,40.355,Stand,Stand
+1768,40.379,Stand,Stand
+1769,40.399,Stand,Stand
+1770,40.425,Stand,Stand
+1771,40.443,Stand,Stand
+1772,40.465,Stand,Stand
+1773,40.487,Stand,Stand
+1774,40.509,Stand,Stand
+1775,40.532,Stand,Stand
+1776,40.554,Stand,Stand
+1777,40.575,Stand,Stand
+1778,40.599,Stand,Stand
+1779,40.619,Stand,Stand
+1780,40.642,Stand,Stand
+1781,40.665,Stand,Stand
+1782,40.686,Stand,Stand
+1783,40.708,Stand,Stand
+1784,40.73,Stand,Stand
+1785,40.755,Stand,Stand
+1786,40.777,Stand,Stand
+1787,40.796,Stand,Stand
+1788,40.821,Stand,Stand
+1789,40.841,Stand,Stand
+1790,40.862,Stand,Stand
+1791,40.885,Stand,Stand
+1792,40.907,Stand,Stand
+1793,40.929,Stand,Stand
+1794,40.951,Stand,Stand
+1795,40.973,Stand,Stand
+1796,40.997,Stand,Stand
+1797,41.017,Stand,Stand
+1798,41.039,Stand,Stand
+1799,41.07,Stand,Stand
+1800,41.09,Stand,Stand
+1801,41.112,Stand,Stand
+1802,41.134,Stand,Stand
+1803,41.157,Stand,Stand
+1804,41.179,Stand,Stand
+1805,41.201,Stand,Stand
+1806,41.224,Stand,Stand
+1807,41.246,Stand,Stand
+1808,41.274,Stand,Stand
+1809,41.29,Stand,Stand
+1810,41.311,Stand,Stand
+1811,41.333,Stand,Stand
+1812,41.355,Stand,Stand
+1813,41.378,Stand,Start to walk
+1814,41.399,Stand,Start to walk
+1815,41.423,Stand,Start to walk
+1816,41.443,Stand,Start to walk
+1817,41.465,Stand,Start to walk
+1818,41.488,Stand,Start to walk
+1819,41.51,Stand,Start to walk
+1820,41.532,Stand,Start to walk
+1821,41.555,Stand,Start to walk
+1822,41.577,Stand,Start to walk
+1823,41.598,Stand,Start to walk
+1824,41.62,Stand,Start to walk
+1825,41.642,Stand,Start to walk
+1826,41.665,Stand,Stand
+1827,41.686,Stand,Stand
+1828,41.709,Stand,Stand
+1829,41.731,Stand,Start to walk
+1830,41.753,Stand,Start to walk
+1831,41.775,Start to walk,Start to walk
+1832,41.798,Start to walk,Start to walk
+1833,41.819,Start to walk,Start to walk
+1834,41.841,Start to walk,Start to walk
+1835,41.863,Start to walk,Start to walk
+1836,41.885,Start to walk,Start to walk
+1837,41.907,Start to walk,Start to walk
+1838,41.932,Start to walk,Start to walk
+1839,41.951,Start to walk,Start to walk
+1840,41.973,Start to walk,Walk
+1841,41.995,Start to walk,Stand
+1842,42.017,Start to walk,Stand
+1843,42.07,Start to walk,Stand
+1844,42.077,Start to walk,Stand
+1845,42.1,Start to walk,Stand
+1846,42.122,Start to walk,Stand
+1847,42.144,Start to walk,Stand
+1848,42.167,Start to walk,Start to walk
+1849,42.19,Start to walk,Start to walk
+1850,42.211,Start to walk,Stand
+1851,42.233,Start to walk,Stand
+1852,42.255,Start to walk,Start to walk
+1853,42.277,Start to walk,Stand
+1854,42.299,Start to walk,Stand
+1855,42.321,Start to walk,Stand
+1856,42.343,Start to walk,Stand
+1857,42.365,Start to walk,Stand
+1858,42.388,Start to walk,Stand
+1859,42.409,Start to walk,Stand
+1860,42.436,Start to walk,Stand
+1861,42.453,Start to walk,Stand
+1862,42.475,Start to walk,Stand
+1863,42.498,Walk,Stand
+1864,42.519,Walk,Stand
+1865,42.54,Walk,Stand
+1866,42.564,Walk,Stand
+1867,42.585,Walk,Stand
+1868,42.607,Walk,Stand
+1869,42.629,Walk,Stand
+1870,42.652,Walk,Stand
+1871,42.674,Walk,Stand
+1872,42.695,Walk,Stand
+1873,42.719,Walk,Stand
+1874,42.741,Walk,Stand
+1875,42.762,Walk,Stand
+1876,42.784,Walk,Stand
+1877,42.806,Walk,Stand
+1878,42.831,Walk,Stand
+1879,42.851,Walk,Stand
+1880,42.873,Walk,Stand
+1881,42.895,Walk,Stand
+1882,42.917,Walk,Stand
+1883,42.939,Walk,Stand
+1884,42.961,Walk,Stand
+1885,42.983,Walk,Stand
+1886,43.005,Walk,Stand
+1887,43.027,Walk,Stand
+1888,43.053,Walk,Stand
+1889,43.069,Walk,Stand
+1890,43.092,Walk,Stand
+1891,43.115,Walk,Stand
+1892,43.136,Walk,Stand
+1893,43.159,Walk,Stand
+1894,43.18,Walk,Stand
+1895,43.205,Walk,Stand
+1896,43.226,Walk,Stand
+1897,43.246,Walk,Stand
+1898,43.27,Walk,Stand
+1899,43.292,Walk,Stand
+1900,43.314,Walk,Stand
+1901,43.336,Walk,Stand
+1902,43.358,Walk,Stand
+1903,43.38,Walk,Stand
+1904,43.402,Walk,Stand
+1905,43.424,Walk,Stand
+1906,43.448,Walk,Stand
+1907,43.469,Walk,Stand
+1908,43.49,Walk,Stand
+1909,43.512,Walk,Stand
+1910,43.534,Walk,Stand
+1911,43.556,Walk,Stand
+1912,43.578,Walk,Stand
+1913,43.6,Walk,Stand
+1914,43.622,Walk,Stand
+1915,43.644,Walk,Stand
+1916,43.666,Walk,Stand
+1917,43.692,Walk,Stand
+1918,43.71,Walk,Stand
+1919,43.732,Walk,Stand
+1920,43.754,Walk,Stand
+1921,43.777,Walk,Stand
+1922,43.798,Walk,Stand
+1923,43.822,Walk,Stand
+1924,43.842,Walk,Stand
+1925,43.869,Walk,Stand
+1926,43.888,Walk,Stand
+1927,43.908,Walk,Stand
+1928,43.929,Walk,Stand
+1929,43.952,Walk,Stand
+1930,43.974,Walk,Stand
+1931,43.997,Walk,Stand
+1932,44.018,Walk,Stand
+1933,44.043,Walk,Stand
+1934,44.064,Walk,Stand
+1935,44.087,Walk,Stand
+1936,44.106,Walk,Stand
+1937,44.131,Walk,Stand
+1938,44.153,Walk,Stand
+1939,44.172,Walk,Stand
+1940,44.194,Walk,Stand
+1941,44.217,Walk,Stand
+1942,44.239,Walk,Stand
+1943,44.267,Walk,Stand
+1944,44.282,Walk,Stand
+1945,44.304,Walk,Stand
+1946,44.326,Walk,Stand
+1947,44.348,Walk,Stand
+1948,44.37,Walk,Stand
+1949,44.393,Walk,Stand
+1950,44.415,Walk,Stand
+1951,44.437,Walk,Stand
+1952,44.459,Walk,Stand
+1953,44.481,Walk,Stand
+1954,44.506,Walk,Stand
+1955,44.525,Walk,Stand
+1956,44.55,Walk,Stand
+1957,44.572,Walk,Start to walk
+1958,44.591,Walk,Start to walk
+1959,44.614,Walk,Start to walk
+1960,44.637,Walk,Start to walk
+1961,44.658,Walk,Start to walk
+1962,44.68,Walk,Start to walk
+1963,44.703,Start to Run,Stand
+1964,44.724,Start to Run,Stand
+1965,44.746,Start to Run,Stand
+1966,44.769,Start to Run,Stand
+1967,44.79,Start to Run,Stand
+1968,44.811,Start to Run,Stand
+1969,44.834,Start to Run,Start to walk
+1970,44.856,Start to Run,Start to walk
+1971,44.878,Start to Run,Start to walk
+1972,44.9,Start to Run,Start to walk
+1973,44.922,Start to Run,Start to walk
+1974,44.946,Start to Run,Start to walk
+1975,44.967,Start to Run,Start to walk
+1976,44.991,Start to Run,Start to walk
+1977,45.015,Start to Run,Start to walk
+1978,45.032,Start to Run,Start to walk
+1979,45.06,Start to Run,Stand
+1980,45.082,Start to Run,Stand
+1981,45.102,Run,Start to walk
+1982,45.124,Run,Start to walk
+1983,45.147,Run,Start to walk
+1984,45.169,Run,Start to walk
+1985,45.192,Run,Start to walk
+1986,45.214,Run,Start to walk
+1987,45.235,Run,Start to walk
+1988,45.257,Run,Start to walk
+1989,45.28,Run,Start to walk
+1990,45.302,Run,Start to walk
+1991,45.324,Run,Start to walk
+1992,45.344,Run,Start to walk
+1993,45.368,Run,Stand
+1994,45.389,Run,Stand
+1995,45.411,Run,Stand
+1996,45.434,Run,Stand
+1997,45.456,Run,Stand
+1998,45.477,Run,Stand
+1999,45.5,Run,Stand
+2000,45.522,Run,Start to walk
+2001,45.564,Run,Stand
+2002,45.574,Run,Stand
+2003,45.597,Run,Stand
+2004,45.618,Run,Start to walk
+2005,45.64,Run,Start to walk
+2006,45.661,Run,Start to walk
+2007,45.685,Run,Start to walk
+2008,45.707,Run,Start to walk
+2009,45.728,Run,Start to walk
+2010,45.75,Run,Start to walk
+2011,45.774,Run,Walk
+2012,45.796,Run,Start to walk
+2013,45.816,Run,Start to walk
+2014,45.838,Run,Start to walk
+2015,45.862,Run,Start to walk
+2016,45.883,Run,Start to walk
+2017,45.904,Run,Start to walk
+2018,45.927,Run,Start to walk
+2019,45.951,Run,Start to walk
+2020,45.972,Run,Start to walk
+2021,45.995,Run,Start to walk
+2022,46.021,Run,Stand
+2023,46.037,Run,Stand
+2024,46.059,Run,Stand
+2025,46.08,Run,Stand
+2026,46.103,Run,Stand
+2027,46.125,Run,Start to walk
+2028,46.147,Run,Start to walk
+2029,46.169,Run,Stand
+2030,46.191,Run,Start to walk
+2031,46.213,Run,Start to walk
+2032,46.235,Run,Start to walk
+2033,46.257,Run,Start to walk
+2034,46.281,Run,Start to walk
+2035,46.301,Run,Start to walk
+2036,46.325,Run,Start to walk
+2037,46.345,Run,Start to walk
+2038,46.37,Run,Start to walk
+2039,46.39,Run,Start to walk
+2040,46.413,Run,Start to walk
+2041,46.434,Run,Start to walk
+2042,46.457,Run,Start to walk
+2043,46.478,Run,Start to walk
+2044,46.506,Run,Start to walk
+2045,46.522,Run,Start to walk
+2046,46.544,Run,Start to walk
+2047,46.566,Run,Start to walk
+2048,46.588,Run,Start to walk
+2049,46.612,Run,Start to walk
+2050,46.633,Run,Start to walk
+2051,46.655,Run,Start to walk
+2052,46.678,Run,Start to walk
+2053,46.699,Run,Start to walk
+2054,46.721,Run,Start to walk
+2055,46.742,Run,Start to walk
+2056,46.765,Run,Start to walk
+2057,46.787,Run,Start to walk
+2058,46.809,Run,Start to walk
+2059,46.831,Run,Start to walk
+2060,46.853,Run,Start to walk
+2061,46.875,Run,Start to walk
+2062,46.898,Run,Stand
+2063,46.919,Run,Stand
+2064,46.941,Run,Start to walk
+2065,46.963,Run,Start to walk
+2066,46.986,Start to walk,Start to walk
+2067,47.007,Start to walk,Stand
+2068,47.03,Start to walk,Stand
+2069,47.074,Start to walk,Stand
+2070,47.09,Start to walk,Stand
+2071,47.112,Start to walk,Stand
+2072,47.134,Start to walk,Stand
+2073,47.16,Start to walk,Stand
+2074,47.179,Start to walk,Walk
+2075,47.201,Start to walk,Walk
+2076,47.223,Start to walk,Stand
+2077,47.245,Start to walk,Walk
+2078,47.267,Start to walk,Walk
+2079,47.29,Start to walk,Stand
+2080,47.312,Start to walk,Stand
+2081,47.334,Start to walk,Stand
+2082,47.356,Start to walk,Stand
+2083,47.378,Start to walk,Stand
+2084,47.4,Start to walk,Stand
+2085,47.422,Start to walk,Stand
+2086,47.444,Start to walk,Stand
+2087,47.466,Start to walk,Stand
+2088,47.488,Start to walk,Stand
+2089,47.51,Start to walk,Stand
+2090,47.532,Start to walk,Stand
+2091,47.554,Start to walk,Stand
+2092,47.576,Start to walk,Stand
+2093,47.598,Start to walk,Stand
+2094,47.62,Start to walk,Stand
+2095,47.642,Start to walk,Stand
+2096,47.664,Start to walk,Stand
+2097,47.686,Start to walk,Stand
+2098,47.711,Start to walk,Stand
+2099,47.73,Start to walk,Stand
+2100,47.752,Start to walk,Stand
+2101,47.774,Start to walk,Stand
+2102,47.797,Start to walk,Stand
+2103,47.819,Start to walk,Stand
+2104,47.84,Walk,Stand
+2105,47.863,Walk,Stand
+2106,47.885,Walk,Stand
+2107,47.907,Walk,Stand
+2108,47.929,Walk,Stand
+2109,47.951,Walk,Stand
+2110,47.973,Walk,Stand
+2111,47.995,Walk,Stand
+2112,48.017,Walk,Stand
+2113,48.039,Walk,Stand
+2114,48.069,Walk,Stand
+2115,48.084,Walk,Stand
+2116,48.105,Walk,Stand
+2117,48.126,Walk,Stand
+2118,48.148,Walk,Stand
+2119,48.172,Walk,Stand
+2120,48.193,Walk,Stand
+2121,48.216,Walk,Stand
+2122,48.237,Walk,Stand
+2123,48.259,Walk,Stand
+2124,48.281,Walk,Stand
+2125,48.303,Walk,Stand
+2126,48.327,Walk,Stand
+2127,48.347,Walk,Stand
+2128,48.369,Walk,Stand
+2129,48.391,Walk,Stand
+2130,48.414,Walk,Stand
+2131,48.436,Walk,Stand
+2132,48.458,Walk,Stand
+2133,48.48,Walk,Stand
+2134,48.504,Walk,Stand
+2135,48.524,Walk,Stand
+2136,48.546,Walk,Stand
+2137,48.567,Walk,Stand
+2138,48.591,Walk,Stand
+2139,48.612,Walk,Stand
+2140,48.633,Walk,Stand
+2141,48.655,Walk,Stand
+2142,48.678,Walk,Stand
+2143,48.7,Walk,Stand
+2144,48.722,Walk,Stand
+2145,48.747,Walk,Stand
+2146,48.77,Walk,Stand
+2147,48.791,Walk,Stand
+2148,48.814,Walk,Stand
+2149,48.836,Walk,Stand
+2150,48.858,Walk,Stand
+2151,48.881,Walk,Stand
+2152,48.906,Walk,Stand
+2153,48.925,Walk,Stand
+2154,48.948,Walk,Stand
+2155,48.969,Walk,Stand
+2156,48.992,Walk,Stand
+2157,49.013,Walk,Stand
+2158,49.035,Walk,Stand
+2159,49.057,Walk,Stand
+2160,49.08,Walk,Stand
+2161,49.101,Walk,Stand
+2162,49.124,Walk,Stand
+2163,49.145,Walk,Stand
+2164,49.168,Walk,Stand
+2165,49.19,Walk,Stand
+2166,49.211,Walk,Stand
+2167,49.237,Walk,Stand
+2168,49.255,Walk,Stand
+2169,49.278,Walk,Stand
+2170,49.3,Walk,Stand
+2171,49.321,Walk,Stand
+2172,49.344,Walk,Stand
+2173,49.366,Walk,Stand
+2174,49.388,Walk,Stand
+2175,49.41,Walk,Stand
+2176,49.432,Walk,Stand
+2177,49.455,Walk,Stand
+2178,49.477,Walk,Stand
+2179,49.498,Walk,Stand
+2180,49.52,Walk,Stand
+2181,49.542,Walk,Stand
+2182,49.564,Walk,Stand
+2183,49.586,Walk,Stand
+2184,49.608,Walk,Stand
+2185,49.63,Walk,Stand
+2186,49.652,Walk,Stand
+2187,49.674,Walk,Stand
+2188,49.697,Walk,Stand
+2189,49.72,Walk,Stand
+2190,49.74,Walk,Stand
+2191,49.762,Walk,Stand
+2192,49.783,Walk,Start to walk
+2193,49.806,Walk,Start to walk
+2194,49.832,Walk,Start to walk
+2195,49.851,Walk,Start to walk
+2196,49.873,Walk,Start to walk
+2197,49.894,Walk,Start to walk
+2198,49.916,Walk,Start to walk
+2199,49.939,Walk,Start to walk
+2200,49.961,Walk,Run
+2201,49.983,Walk,Run
+2202,50.006,Walk,Start to walk
+2203,50.027,Walk,Start to walk
+2204,50.049,Walk,Start to walk
+2205,50.07,Walk,Start to walk
+2206,50.092,Walk,Start to walk
+2207,50.115,Walk,Start to walk
+2208,50.137,Walk,Start to walk
+2209,50.16,Walk,Start to walk
+2210,50.184,Walk,Start to walk
+2211,50.203,Walk,Start to walk
+2212,50.227,Stand,Start to walk
+2213,50.247,Stand,Stand
+2214,50.27,Stand,Stand
+2215,50.292,Stand,Stand
+2216,50.314,Stand,Stand
+2217,50.336,Stand,Stand
+2218,50.358,Stand,Stand
+2219,50.379,Stand,Stand
+2220,50.402,Stand,Stand
+2221,50.424,Stand,Stand
+2222,50.446,Stand,Stand
+2223,50.469,Stand,Stand
+2224,50.49,Stand,Stand
+2225,50.512,Stand,Stand
+2226,50.534,Stand,Stand
+2227,50.557,Stand,Stand
+2228,50.579,Stand,Stand
+2229,50.6,Stand,Stand
+2230,50.622,Stand,Stand
+2231,50.645,Stand,Stand
+2232,50.668,Stand,Stand
+2233,50.689,Stand,Stand
+2234,50.71,Stand,Stand
+2235,50.733,Stand,Stand
+2236,50.754,Stand,Stand
+2237,50.776,Stand,Stand
+2238,50.798,Stand,Stand
+2239,50.82,Stand,Stand
+2240,50.843,Stand,Stand
+2241,50.868,Stand,Stand
+2242,50.89,Stand,Stand
+2243,50.908,Stand,Stand
+2244,50.931,Stand,Stand
+2245,50.953,Stand,Stand
+2246,50.976,Stand,Stand
+2247,50.997,Stand,Stand
+2248,51.019,Stand,Stand
+2249,51.04,Stand,Stand
+2250,51.067,Stand,Stand
+2251,51.089,Stand,Stand
+2252,51.111,Stand,Stand
+2253,51.132,Stand,Stand
+2254,51.161,Stand,Stand
+2255,51.177,Stand,Stand
+2256,51.199,Stand,Stand
+2257,51.222,Stand,Stand
+2258,51.253,Stand,Stand
+2259,51.266,Stand,Stand
+2260,51.292,Stand,Stand
+2261,51.31,Stand,Stand
+2262,51.332,Stand,Stand
+2263,51.354,Stand,Stand
+2264,51.376,Stand,Stand
+2265,51.398,Stand,Stand
+2266,51.42,Stand,Stand
+2267,51.442,Stand,Stand
+2268,51.464,Stand,Stand
+2269,51.486,Stand,Stand
+2270,51.511,Stand,Stand
+2271,51.531,Stand,Stand
+2272,51.553,Stand,Stand
+2273,51.575,Stand,Stand
+2274,51.596,Stand,Stand
+2275,51.619,Stand,Stand
+2276,51.64,Stand,Stand
+2277,51.662,Stand,Stand
+2278,51.685,Stand,Stand
+2279,51.707,Stand,Stand
+2280,51.733,Stand,Stand
+2281,51.751,Stand,Stand
+2282,51.773,Stand,Stand
+2283,51.805,Stand,Stand
+2284,51.82,Stand,Stand
+2285,51.842,Stand,Stand
+2286,51.865,Stand,Stand
+2287,51.888,Stand,Stand
+2288,51.908,Stand,Stand
+2289,51.93,Stand,Stand
+2290,51.953,Stand,Stand
+2291,51.975,Stand,Stand
+2292,51.997,Stand,Stand
+2293,52.019,Stand,Stand
+2294,52.041,Stand,Stand
+2295,52.064,Stand,Stand
+2296,52.093,Stand,Stand
+2297,52.115,Stand,Stand
+2298,52.137,Stand,Stand
+2299,52.159,Stand,Stand
+2300,52.181,Stand,Stand
+2301,52.204,Stand,Stand
+2302,52.226,Stand,Stand
+2303,52.248,Stand,Stand
+2304,52.271,Stand,Stand
+2305,52.293,Stand,Stand
+2306,52.315,Stand,Stand
+2307,52.337,Stand,Stand
+2308,52.359,Stand,Stand
+2309,52.381,Stand,Stand
+2310,52.403,Stand,Stand
+2311,52.425,Stand,Stand
+2312,52.447,Stand,Stand
+2313,52.469,Stand,Stand
+2314,52.491,Stand,Stand
+2315,52.513,Stand,Stand
+2316,52.538,Stand,Stand
+2317,52.558,Stand,Stand
+2318,52.583,Stand,Stand
+2319,52.601,Stand,Stand
+2320,52.623,Stand,Stand
+2321,52.645,Stand,Stand
+2322,52.667,Stand,Stand
+2323,52.69,Stand,Stand
+2324,52.711,Stand,Stand
+2325,52.735,Stand,Stand
+2326,52.755,Stand,Stand
+2327,52.778,Stand,Stand
+2328,52.8,Stand,Stand
+2329,52.822,Stand,Stand
+2330,52.844,Stand,Stand
+2331,52.866,Stand,Stand
+2332,52.888,Stand,Stand
+2333,52.91,Stand,Stand
+2334,52.932,Stand,Stand
+2335,52.954,Stand,Stand
+2336,52.976,Stand,Stand
+2337,52.998,Stand,Stand
+2338,53.021,Stand,Stand
+2339,53.042,Stand,Stand
+2340,53.064,Stand,Stand
+2341,53.093,Stand,Stand
+2342,53.108,Stand,Stand
+2343,53.129,Stand,Stand
+2344,53.152,Stand,Stand
+2345,53.174,Stand,Stand
+2346,53.196,Stand,Stand
+2347,53.218,Stand,Stand
+2348,53.241,Stand,Stand
+2349,53.263,Stand,Stand
+2350,53.285,Stand,Stand
+2351,53.311,Stand,Stand
+2352,53.328,Stand,Stand
+2353,53.35,Stand,Stand
+2354,53.375,Stand,Stand
+2355,53.396,Stand,Stand
+2356,53.416,Stand,Stand
+2357,53.438,Stand,Stand
+2358,53.462,Stand,Stand
+2359,53.483,Stand,Stand
+2360,53.505,Stand,Stand
+2361,53.527,Stand,Stand
+2362,53.549,Stand,Stand
+2363,53.571,Stand,Stand
+2364,53.593,Stand,Stand
+2365,53.615,Stand,Stand
+2366,53.637,Stand,Stand
+2367,53.662,Stand,Stand
+2368,53.684,Stand,Stand
+2369,53.704,Stand,Stand
+2370,53.725,Stand,Stand
+2371,53.747,Stand,Stand
+2372,53.769,Stand,Stand
+2373,53.791,Stand,Stand
+2374,53.813,Stand,Stand
+2375,53.835,Stand,Stand
+2376,53.858,Stand,Stand
+2377,53.88,Stand,Stand
+2378,53.902,Stand,Stand
+2379,53.924,Stand,Stand
+2380,53.946,Stand,Stand
+2381,53.968,Stand,Stand
+2382,53.991,Stand,Stand
+2383,54.012,Stand,Stand
+2384,54.034,Stand,Stand
+2385,54.056,Stand,Stand
+2386,54.093,Stand,Stand
+2387,54.1,Stand,Stand
+2388,54.121,Stand,Stand
+2389,54.143,Stand,Stand
+2390,54.166,Stand,Stand
+2391,54.188,Stand,Stand
+2392,54.21,Stand,Stand
+2393,54.232,Stand,Stand
+2394,54.255,Stand,Stand
+2395,54.277,Stand,Stand
+2396,54.299,Stand,Stand
+2397,54.321,Stand,Stand
+2398,54.343,Stand,Stand
+2399,54.364,Stand,Stand
+2400,54.389,Stand,Stand
+2401,54.409,Stand,Stand
+2402,54.431,Stand,Stand
+2403,54.453,Stand,Stand
+2404,54.475,Stand,Stand
+2405,54.497,Stand,Stand
+2406,54.519,Stand,Stand
+2407,54.541,Stand,Stand
+2408,54.563,Stand,Stand
+2409,54.585,Stand,Stand
+2410,54.608,Stand,Stand
+2411,54.629,Stand,Stand
+2412,54.651,Stand,Stand
+2413,54.674,Stand,Stand
+2414,54.694,Stand,Stand
+2415,54.717,Stand,Stand
+2416,54.74,Stand,Stand
+2417,54.761,Stand,Stand
+2418,54.783,Stand,Stand
+2419,54.809,Stand,Stand
+2420,54.841,Stand,Stand
+2421,54.853,Stand,Stand
+2422,54.875,Stand,Stand
+2423,54.897,Stand,Stand
+2424,54.919,Stand,Stand
+2425,54.942,Stand,Stand
+2426,54.964,Stand,Stand
+2427,54.986,Stand,Stand
+2428,55.008,Stand,Stand
+2429,55.03,Stand,Stand
+2430,55.052,Stand,Stand
+2431,55.074,Stand,Stand
+2432,55.1,Stand,Stand
+2433,55.118,Stand,Stand
+2434,55.144,Stand,Stand
+2435,55.164,Stand,Stand
+2436,55.184,Stand,Stand
+2437,55.208,Stand,Stand
+2438,55.229,Stand,Stand
+2439,55.256,Stand,Stand
+2440,55.272,Stand,Stand
+2441,55.294,Stand,Stand
+2442,55.317,Stand,Stand
+2443,55.339,Stand,Stand
+2444,55.362,Stand,Stand
+2445,55.382,Stand,Stand
+2446,55.404,Stand,Stand
+2447,55.427,Stand,Stand
+2448,55.449,Stand,Stand
+2449,55.472,Stand,Stand
+2450,55.497,Stand,Stand
+2451,55.518,Stand,Stand
+2452,55.54,Stand,Stand
+2453,55.562,Stand,Stand
+2454,55.584,Stand,Stand
+2455,55.606,Stand,Stand
+2456,55.628,Stand,Stand
+2457,55.656,Stand,Stand
+2458,56.375,Stand,Stand
+2459,56.398,Stand,Stand
+2460,56.42,Stand,Stand
+2461,56.441,Stand,Stand
+2462,56.463,Stand,Stand
+2463,56.486,Stand,Stand
+2464,56.508,Stand,Stand
+2465,56.53,Stand,Stand
+2466,56.552,Stand,Stand
+2467,56.574,Stand,Stand
+2468,56.596,Stand,Stand
+2469,56.618,Stand,Stand
+2470,56.64,Stand,Stand
+2471,56.662,Stand,Stand
+2472,56.684,Stand,Stand
+2473,56.706,Stand,Stand
+2474,56.728,Stand,Stand
+2475,56.751,Stand,Stand
+2476,56.772,Stand,Stand
+2477,56.795,Stand,Stand
+2478,56.817,Stand,Stand
+2479,56.838,Stand,Stand
+2480,56.861,Stand,Stand
+2481,56.883,Stand,Stand
+2482,56.905,Stand,Stand
+2483,56.927,Stand,Stand
+2484,56.948,Stand,Stand
+2485,56.97,Stand,Stand
+2486,56.992,Stand,Stand
+2487,57.014,Stand,Stand
+2488,57.036,Stand,Stand
+2489,57.059,Stand,Stand
+2490,57.081,Stand,Stand
+2491,57.103,Stand,Stand
+2492,57.124,Stand,Stand
+2493,57.147,Stand,Stand
+2494,57.169,Stand,Stand
+2495,57.192,Stand,Stand
+2496,57.213,Stand,Walk
+2497,57.235,Stand,Stand
+2498,57.256,Stand,Stand
+2499,57.279,Stand,Stand
+2500,57.301,Stand,Stand
+2501,57.323,Stand,Stand
+2502,57.345,Stand,Stand
+2503,57.371,Stand,Stand
+2504,57.394,Stand,Stand
+2505,57.416,Stand,Stand
+2506,57.438,Stand,Stand
+2507,57.461,Stand,Stand
+2508,57.483,Stand,Stand
+2509,57.504,Stand,Stand
+2510,57.526,Stand,Stand
+2511,57.549,Stand,Stand
+2512,57.571,Stand,Stand
+2513,57.592,Stand,Stand
+2514,57.615,Stand,Stand
+2515,57.636,Stand,Stand
+2516,57.658,Stand,Stand
+2517,57.68,Stand,Stand
+2518,57.702,Stand,Stand
+2519,57.724,Stand,Stand
+2520,57.746,Stand,Stand
+2521,57.769,Stand,Stand
+2522,57.791,Stand,Stand
+2523,57.813,Stand,Stand
+2524,57.835,Stand,Stand
+2525,57.856,Stand,Stand
+2526,57.879,Stand,Stand
+2527,57.901,Stand,Stand
+2528,57.923,Stand,Stand
+2529,57.944,Stand,Stand
+2530,57.967,Stand,Stand
+2531,57.989,Stand,Stand
+2532,58.011,Stand,Stand
+2533,58.033,Stand,Stand
+2534,58.055,Stand,Stand
+2535,58.077,Stand,Stand
+2536,58.099,Stand,Stand
+2537,58.121,Stand,Stand
+2538,58.144,Stand,Stand
+2539,58.165,Stand,Stand
+2540,58.188,Stand,Stand
+2541,58.21,Stand,Stand
+2542,58.231,Stand,Stand
+2543,58.254,Stand,Stand
+2544,58.275,Stand,Stand
+2545,58.297,Stand,Stand
+2546,58.319,Stand,Stand
+2547,58.342,Stand,Stand
+2548,58.368,Stand,Stand
+2549,58.39,Stand,Stand
+2550,58.412,Stand,Stand
+2551,58.434,Stand,Stand
+2552,58.456,Stand,Stand
+2553,58.478,Stand,Stand
+2554,58.5,Stand,Stand
+2555,58.522,Stand,Stand
+2556,58.544,Stand,Stand
+2557,58.566,Stand,Stand
+2558,58.589,Stand,Stand
+2559,58.611,Stand,Stand
+2560,58.633,Stand,Stand
+2561,58.655,Stand,Stand
+2562,58.676,Stand,Stand
+2563,58.699,Stand,Stand
+2564,58.721,Stand,Stand
+2565,58.743,Stand,Stand
+2566,58.764,Stand,Stand
+2567,58.787,Stand,Stand
+2568,58.808,Stand,Stand
+2569,58.831,Stand,Stand
+2570,58.852,Stand,Stand
+2571,58.875,Stand,Stand
+2572,58.896,Stand,Stand
+2573,58.919,Stand,Stand
+2574,58.94,Stand,Stand
+2575,58.963,Stand,Stand
+2576,58.985,Stand,Stand
+2577,59.007,Stand,Stand
+2578,59.029,Stand,Stand
+2579,59.051,Stand,Stand
+2580,59.073,Stand,Stand
+2581,59.095,Stand,Stand
+2582,59.12,Stand,Stand
+2583,59.139,Stand,Stand
+2584,59.162,Stand,Stand
+2585,59.184,Stand,Stand
+2586,59.205,Stand,Stand
+2587,59.228,Stand,Stand
+2588,59.249,Stand,Stand
+2589,59.271,Stand,Stand
+2590,59.294,Stand,Stand
+2591,59.316,Stand,Stand
+2592,59.338,Stand,Stand
+2593,59.363,Stand,Stand
+2594,59.383,Stand,Stand
+2595,59.407,Stand,Stand
+2596,59.429,Stand,Stand
+2597,59.449,Stand,Stand
+2598,59.474,Stand,Stand
+2599,59.493,Stand,Stand
+2600,59.513,Stand,Stand
+2601,59.535,Stand,Stand
+2602,59.561,Stand,Stand
+2603,59.58,Stand,Stand
+2604,59.602,Stand,Stand
+2605,59.623,Stand,Stand
+2606,59.646,Stand,Stand
+2607,59.668,Stand,Stand
+2608,59.69,Stand,Stand
+2609,59.712,Stand,Stand
+2610,59.735,Stand,Stand
+2611,59.757,Stand,Stand
+2612,59.779,Stand,Stand
+2613,59.801,Stand,Stand
+2614,59.823,Stand,Stand
+2615,59.846,Stand,Stand
+2616,59.867,Stand,Stand
+2617,59.889,Stand,Stand
+2618,59.911,Stand,Start to walk
+2619,59.933,Stand,Start to walk
+2620,59.955,Stand,Start to walk
+2621,59.977,Stand,Start to walk
+2622,60,Stand,Start to walk
+2623,60.021,Stand,Start to walk
+2624,60.044,Stand,Start to walk
+2625,60.066,Stand,Start to walk
+2626,60.088,Stand,Start to walk
+2627,60.11,Stand,Start to walk
+2628,60.132,Stand,Start to walk
+2629,60.154,Stand,Start to walk
+2630,60.176,Stand,Start to walk
+2631,60.198,Stand,Start to walk
+2632,60.221,Stand,Start to walk
+2633,60.252,Stand,Start to walk
+2634,60.263,Stand,Start to walk
+2635,60.285,Stand,Start to walk
+2636,60.308,Stand,Start to walk
+2637,60.331,Stand,Start to walk
+2638,60.352,Stand,Stand
+2639,60.375,Stand,Stand
+2640,60.4,Stand,Stand
+2641,60.422,Stand,Stand
+2642,60.445,Stand,Stand
+2643,60.467,Stand,Stand
+2644,60.488,Stand,Stand
+2645,60.511,Stand,Stand
+2646,60.533,Stand,Stand
+2647,60.555,Stand,Start to walk
+2648,60.577,Stand,Stand
+2649,60.599,Stand,Stand
+2650,60.621,Stand,Stand
+2651,60.645,Stand,Stand
+2652,60.665,Stand,Stand
+2653,60.687,Stand,Stand
+2654,60.709,Stand,Stand
+2655,60.731,Stand,Stand
+2656,60.753,Stand,Stand
+2657,60.776,Stand,Stand
+2658,60.806,Stand,Stand
+2659,60.828,Stand,Stand
+2660,60.85,Stand,Stand
+2661,60.872,Stand,Stand
+2662,60.895,Stand,Stand
+2663,60.917,Start to walk,Stand
+2664,60.939,Start to walk,Stand
+2665,60.961,Start to walk,Stand
+2666,60.983,Start to walk,Stand
+2667,61.004,Start to walk,Stand
+2668,61.027,Start to walk,Stand
+2669,61.049,Start to walk,Stand
+2670,61.071,Start to walk,Stand
+2671,61.093,Start to walk,Stand
+2672,61.115,Start to walk,Stand
+2673,61.139,Start to walk,Stand
+2674,61.159,Start to walk,Stand
+2675,61.181,Start to walk,Stand
+2676,61.203,Start to walk,Stand
+2677,61.225,Start to walk,Stand
+2678,61.248,Start to walk,Stand
+2679,61.269,Start to walk,Stand
+2680,61.291,Start to walk,Stand
+2681,61.313,Start to walk,Stand
+2682,61.336,Start to walk,Stand
+2683,61.357,Start to walk,Stand
+2684,61.381,Start to walk,Stand
+2685,61.402,Start to walk,Stand
+2686,61.424,Start to walk,Stand
+2687,61.446,Start to walk,Stand
+2688,61.467,Start to walk,Stand
+2689,61.49,Start to walk,Stand
+2690,61.512,Start to walk,Stand
+2691,61.534,Start to walk,Stand
+2692,61.556,Start to walk,Stand
+2693,61.578,Start to walk,Stand
+2694,61.6,Start to walk,Stand
+2695,61.622,Start to walk,Stand
+2696,61.644,Start to walk,Stand
+2697,61.666,Start to walk,Stand
+2698,61.688,Start to walk,Stand
+2699,61.71,Walk,Stand
+2700,61.732,Walk,Stand
+2701,61.754,Walk,Stand
+2702,61.775,Walk,Stand
+2703,61.799,Walk,Stand
+2704,61.819,Walk,Stand
+2705,61.841,Walk,Stand
+2706,61.865,Walk,Stand
+2707,61.888,Walk,Stand
+2708,61.908,Walk,Stand
+2709,61.93,Walk,Stand
+2710,61.952,Walk,Stand
+2711,61.975,Walk,Stand
+2712,61.996,Walk,Stand
+2713,62.026,Walk,Stand
+2714,62.049,Walk,Stand
+2715,62.071,Walk,Stand
+2716,62.093,Walk,Stand
+2717,62.115,Walk,Stand
+2718,62.138,Walk,Walk
+2719,62.16,Walk,Stand
+2720,62.182,Walk,Stand
+2721,62.204,Walk,Stand
+2722,62.228,Walk,Stand
+2723,62.251,Walk,Stand
+2724,62.268,Walk,Stand
+2725,62.29,Walk,Stand
+2726,62.312,Walk,Stand
+2727,62.336,Walk,Stand
+2728,62.357,Walk,Stand
+2729,62.38,Walk,Stand
+2730,62.402,Walk,Stand
+2731,62.424,Walk,Stand
+2732,62.446,Walk,Stand
+2733,62.473,Walk,Stand
+2734,62.49,Walk,Stand
+2735,62.512,Walk,Stand
+2736,62.534,Walk,Stand
+2737,62.558,Walk,Stand
+2738,62.578,Walk,Stand
+2739,62.601,Walk,Stand
+2740,62.622,Walk,Stand
+2741,62.645,Walk,Stand
+2742,62.666,Walk,Stand
+2743,62.69,Walk,Stand
+2744,62.71,Walk,Stand
+2745,62.732,Walk,Stand
+2746,62.756,Walk,Stand
+2747,62.776,Walk,Stand
+2748,62.802,Walk,Stand
+2749,62.821,Walk,Stand
+2750,62.843,Walk,Stand
+2751,62.865,Walk,Stand
+2752,62.891,Walk,Stand
+2753,62.911,Walk,Stand
+2754,62.931,Walk,Stand
+2755,62.953,Walk,Stand
+2756,62.975,Walk,Stand
+2757,62.998,Walk,Stand
+2758,63.02,Walk,Stand
+2759,63.041,Walk,Stand
+2760,63.064,Walk,Stand
+2761,63.086,Walk,Stand
+2762,63.108,Walk,Stand
+2763,63.13,Walk,Stand
+2764,63.152,Walk,Stand
+2765,63.173,Walk,Stand
+2766,63.195,Walk,Stand
+2767,63.216,Walk,Stand
+2768,63.238,Walk,Stand
+2769,63.261,Walk,Stand
+2770,63.283,Walk,Stand
+2771,63.305,Walk,Stand
+2772,63.328,Walk,Stand
+2773,63.35,Walk,Stand
+2774,63.372,Walk,Stand
+2775,63.397,Walk,Stand
+2776,63.418,Walk,Stand
+2777,63.438,Walk,Stand
+2778,63.462,Walk,Stand
+2779,63.482,Walk,Stand
+2780,63.504,Walk,Stand
+2781,63.526,Walk,Stand
+2782,63.548,Walk,Stand
+2783,63.57,Walk,Stand
+2784,63.592,Walk,Stand
+2785,63.614,Walk,Stand
+2786,63.636,Walk,Stand
+2787,63.659,Walk,Stand
+2788,63.681,Walk,Stand
+2789,63.703,Walk,Stand
+2790,63.725,Walk,Stand
+2791,63.747,Walk,Stand
+2792,63.769,Walk,Stand
+2793,63.79,Walk,Stand
+2794,63.813,Walk,Stand
+2795,63.835,Walk,Stand
+2796,63.857,Walk,Stand
+2797,63.881,Walk,Stand
+2798,63.912,Walk,Stand
+2799,63.924,Walk,Stand
+2800,63.944,Walk,Stand
+2801,63.967,Walk,Stand
+2802,63.988,Walk,Stand
+2803,64.01,Walk,Stand
+2804,64.032,Walk,Stand
+2805,64.055,Walk,Stand
+2806,64.077,Walk,Stand
+2807,64.099,Walk,Stand
+2808,64.121,Walk,Stand
+2809,64.146,Walk,Stand
+2810,64.165,Walk,Stand
+2811,64.187,Walk,Stand
+2812,64.213,Walk,Start to walk
+2813,64.23,Walk,Start to walk
+2814,64.253,Walk,Start to walk
+2815,64.275,Walk,Start to walk
+2816,64.296,Walk,Start to walk
+2817,64.318,Walk,Start to walk
+2818,64.34,Walk,Start to walk
+2819,64.364,Walk,Start to walk
+2820,64.385,Walk,Start to walk
+2821,64.409,Walk,Start to walk
+2822,64.429,Walk,Start to walk
+2823,64.451,Walk,Start to walk
+2824,64.474,Walk,Start to walk
+2825,64.495,Walk,Start to walk
+2826,64.517,Walk,Start to walk
+2827,64.541,Walk,Start to walk
+2828,64.562,Walk,Start to walk
+2829,64.584,Walk,Start to walk
+2830,64.607,Walk,Start to walk
+2831,64.627,Walk,Start to walk
+2832,64.649,Walk,Start to walk
+2833,64.672,Walk,Start to walk
+2834,64.696,Start to Run,Start to walk
+2835,64.716,Start to Run,Start to walk
+2836,64.74,Start to Run,Start to walk
+2837,64.76,Start to Run,Start to walk
+2838,64.782,Start to Run,Start to walk
+2839,64.804,Start to Run,Start to walk
+2840,64.826,Start to Run,Stand
+2841,64.848,Start to Run,Stand
+2842,64.871,Start to Run,Stand
+2843,64.893,Start to Run,Stand
+2844,64.915,Start to Run,Stand
+2845,64.937,Start to Run,Stand
+2846,64.959,Start to Run,Stand
+2847,64.981,Start to Run,Stand
+2848,65.003,Start to Run,Stand
+2849,65.025,Start to Run,Stand
+2850,65.047,Run,Stand
+2851,65.069,Run,Stand
+2852,65.091,Run,Start to walk
+2853,65.113,Run,Start to walk
+2854,65.135,Run,Start to walk
+2855,65.161,Run,Start to walk
+2856,65.18,Run,Start to walk
+2857,65.202,Run,Stand
+2858,65.224,Run,Start to walk
+2859,65.246,Run,Start to walk
+2860,65.267,Run,Start to walk
+2861,65.289,Run,Start to walk
+2862,65.31,Run,Start to walk
+2863,65.333,Run,Start to walk
+2864,65.355,Run,Start to walk
+2865,65.379,Run,Start to walk
+2866,65.401,Run,Stand
+2867,65.422,Run,Stand
+2868,65.443,Run,Stand
+2869,65.466,Run,Stand
+2870,65.487,Run,Stand
+2871,65.509,Run,Stand
+2872,65.531,Run,Stand
+2873,65.554,Run,Start to walk
+2874,65.574,Run,Start to walk
+2875,65.598,Run,Start to walk
+2876,65.618,Run,Start to walk
+2877,65.641,Run,Start to walk
+2878,65.663,Run,Start to walk
+2879,65.686,Run,Start to walk
+2880,65.707,Run,Start to walk
+2881,65.729,Run,Start to walk
+2882,65.754,Run,Start to walk
+2883,65.774,Run,Start to walk
+2884,65.796,Run,Start to walk
+2885,65.833,Run,Start to walk
+2886,65.843,Run,Start to walk
+2887,65.868,Run,Start to walk
+2888,65.891,Run,Start to walk
+2889,65.912,Run,Start to walk
+2890,65.932,Run,Start to walk
+2891,65.955,Run,Start to walk
+2892,65.977,Run,Start to walk
+2893,65.998,Run,Start to walk
+2894,66.021,Run,Start to walk
+2895,66.043,Run,Start to walk
+2896,66.065,Run,Start to walk
+2897,66.087,Run,Start to walk
+2898,66.109,Run,Stand
+2899,66.131,Run,Stand
+2900,66.155,Run,Stand
+2901,66.176,Run,Stand
+2902,66.197,Run,Stand
+2903,66.219,Run,Stand
+2904,66.242,Run,Start to walk
+2905,66.276,Run,Start to walk
+2906,66.293,Run,Start to walk
+2907,66.311,Run,Start to walk
+2908,66.333,Run,Start to walk
+2909,66.356,Run,Start to walk
+2910,66.378,Run,Start to walk
+2911,66.4,Run,Start to walk
+2912,66.422,Run,Start to walk
+2913,66.444,Run,Start to walk
+2914,66.465,Run,Start to walk
+2915,66.488,Run,Start to walk
+2916,66.51,Run,Start to walk
+2917,66.532,Run,Start to walk
+2918,66.554,Run,Start to walk
+2919,66.577,Run,Start to walk
+2920,66.598,Run,Start to walk
+2921,66.62,Run,Start to walk
+2922,66.643,Run,Start to walk
+2923,66.665,Run,Start to walk
+2924,66.688,Run,Start to walk
+2925,66.708,Run,Start to walk
+2926,66.731,Run,Start to walk
+2927,66.753,Run,Start to walk
+2928,66.775,Run,Start to walk
+2929,66.798,Run,Stand
+2930,66.819,Run,Stand
+2931,66.844,Run,Stand
+2932,66.864,Run,Start to walk
+2933,66.885,Run,Start to walk
+2934,66.912,Run,Start to walk
+2935,66.93,Run,Stand
+2936,66.951,Run,Start to walk
+2937,66.974,Run,Start to walk
+2938,66.996,Run,Start to walk
+2939,67.028,Run,Start to walk
+2940,67.04,Run,Start to walk
+2941,67.061,Run,Start to walk
+2942,67.084,Run,Start to walk
+2943,67.105,Run,Start to walk
+2944,67.128,Run,Start to walk
+2945,67.152,Run,Start to walk
+2946,67.172,Run,Start to walk
+2947,67.194,Run,Start to walk
+2948,67.216,Run,Start to walk
+2949,67.238,Run,Start to walk
+2950,67.264,Run,Start to walk
+2951,67.286,Run,Start to walk
+2952,67.307,Start to walk,Start to walk
+2953,67.329,Start to walk,Start to walk
+2954,67.351,Start to walk,Start to walk
+2955,67.373,Start to walk,Start to walk
+2956,67.395,Start to walk,Start to walk
+2957,67.422,Start to walk,Start to walk
+2958,67.44,Start to walk,Start to walk
+2959,67.462,Start to walk,Start to walk
+2960,67.485,Start to walk,Start to walk
+2961,67.51,Start to walk,Start to walk
+2962,67.528,Start to walk,Start to walk
+2963,67.551,Start to walk,Start to walk
+2964,67.573,Start to walk,Start to walk
+2965,67.594,Start to walk,Start to walk
+2966,67.617,Start to walk,Stand
+2967,67.64,Start to walk,Stand
+2968,67.662,Start to walk,Stand
+2969,67.683,Start to walk,Stand
+2970,67.707,Start to walk,Stand
+2971,67.727,Start to walk,Stand
+2972,67.749,Start to walk,Stand
+2973,67.771,Start to walk,Stand
+2974,67.793,Start to walk,Stand
+2975,67.815,Start to walk,Stand
+2976,67.837,Start to walk,Start to walk
+2977,67.859,Start to walk,Start to walk
+2978,67.881,Start to walk,Start to walk
+2979,67.904,Walk,Start to walk
+2980,67.926,Walk,Start to walk
+2981,67.947,Walk,Start to walk
+2982,67.969,Walk,Start to walk
+2983,67.991,Walk,Start to walk
+2984,68.013,Walk,Start to walk
+2985,68.037,Walk,Start to walk
+2986,68.057,Walk,Start to walk
+2987,68.08,Walk,Start to walk
+2988,68.104,Walk,Start to walk
+2989,68.124,Walk,Start to walk
+2990,68.146,Walk,Start to walk
+2991,68.168,Walk,Start to walk
+2992,68.19,Walk,Start to walk
+2993,68.212,Walk,Start to walk
+2994,68.235,Walk,Start to walk
+2995,68.256,Walk,Start to walk
+2996,68.281,Walk,Start to walk
+2997,68.301,Walk,Start to walk
+2998,68.325,Walk,Start to walk
+2999,68.347,Walk,Start to walk
+3000,68.369,Walk,Start to walk
+3001,68.392,Walk,Start to walk
+3002,68.415,Walk,Start to walk
+3003,68.436,Walk,Start to walk
+3004,68.458,Walk,Start to walk
+3005,68.482,Walk,Start to walk
+3006,68.502,Walk,Start to walk
+3007,68.524,Walk,Start to walk
+3008,68.547,Walk,Start to walk
+3009,68.569,Walk,Start to walk
+3010,68.592,Walk,Start to walk
+3011,68.613,Walk,Walk
+3012,68.635,Walk,Start to walk
+3013,68.657,Walk,Start to walk
+3014,68.679,Walk,Start to walk
+3015,68.701,Walk,Start to walk
+3016,68.723,Walk,Stand
+3017,68.745,Walk,Stand
+3018,68.767,Walk,Stand
+3019,68.789,Walk,Stand
+3020,68.812,Walk,Stand
+3021,68.833,Walk,Stand
+3022,68.855,Walk,Stand
+3023,68.877,Walk,Stand
+3024,68.9,Walk,Stand
+3025,68.924,Walk,Stand
+3026,68.944,Walk,Stand
+3027,68.966,Walk,Stand
+3028,68.988,Walk,Stand
+3029,69.01,Walk,Stand
+3030,69.034,Walk,Stand
+3031,69.054,Walk,Stand
+3032,69.076,Walk,Stand
+3033,69.098,Walk,Stand
+3034,69.12,Walk,Stand
+3035,69.143,Walk,Stand
+3036,69.166,Walk,Stand
+3037,69.186,Walk,Stand
+3038,69.208,Walk,Stand
+3039,69.23,Walk,Stand
+3040,69.252,Walk,Stand
+3041,69.277,Walk,Stand
+3042,69.307,Walk,Stand
+3043,69.319,Walk,Stand
+3044,69.341,Walk,Stand
+3045,69.361,Walk,Stand
+3046,69.383,Walk,Stand
+3047,69.407,Walk,Stand
+3048,69.428,Walk,Stand
+3049,69.45,Walk,Stand
+3050,69.473,Walk,Stand
+3051,69.493,Walk,Stand
+3052,69.515,Walk,Stand
+3053,69.537,Walk,Stand
+3054,69.56,Walk,Stand
+3055,69.582,Walk,Stand
+3056,69.605,Walk,Stand
+3057,69.626,Walk,Stand
+3058,69.65,Walk,Stand
+3059,69.672,Walk,Stand
+3060,69.692,Walk,Stand
+3061,69.719,Walk,Stand
+3062,69.74,Walk,Stand
+3063,69.759,Walk,Stand
+3064,69.781,Walk,Stand
+3065,69.803,Walk,Stand
+3066,69.825,Walk,Stand
+3067,69.849,Walk,Stand
+3068,69.869,Walk,Stand
+3069,69.892,Walk,Stand
+3070,69.913,Walk,Stand
+3071,69.935,Walk,Stand
+3072,69.957,Walk,Stand
+3073,69.98,Walk,Stand
+3074,70.001,Walk,Stand
+3075,70.024,Walk,Stand
+3076,70.046,Walk,Stand
+3077,70.068,Walk,Stand
+3078,70.09,Walk,Stand
+3079,70.112,Walk,Stand
+3080,70.134,Walk,Stand
+3081,70.156,Walk,Stand
+3082,70.178,Walk,Stand
+3083,70.2,Walk,Stand
+3084,70.222,Walk,Stand
+3085,70.247,Walk,Stand
+3086,70.274,Walk,Stand
+3087,70.29,Walk,Stand
+3088,70.31,Walk,Stand
+3089,70.332,Walk,Stand
+3090,70.354,Walk,Stand
+3091,70.375,Walk,Stand
+3092,70.398,Walk,Stand
+3093,70.419,Walk,Stand
+3094,70.441,Stand,Stand
+3095,70.466,Stand,Stand
+3096,70.487,Stand,Stand
+3097,70.509,Stand,Stand
+3098,70.53,Stand,Stand
+3099,70.554,Stand,Stand
+3100,70.574,Stand,Stand
+3101,70.597,Stand,Stand
+3102,70.619,Stand,Stand
+3103,70.643,Stand,Stand
+3104,70.663,Stand,Stand
+3105,70.685,Stand,Stand
+3106,70.71,Stand,Stand
+3107,70.729,Stand,Stand
+3108,70.752,Stand,Stand
+3109,70.773,Stand,Stand
+3110,70.798,Stand,Stand
+3111,70.818,Stand,Stand
+3112,70.839,Stand,Stand
+3113,70.869,Stand,Stand
+3114,70.886,Stand,Stand
+3115,70.909,Stand,Stand
+3116,70.931,Stand,Stand
+3117,70.952,Stand,Stand
+3118,70.975,Stand,Stand
+3119,70.997,Stand,Stand
+3120,71.019,Stand,Stand
+3121,71.042,Stand,Stand
+3122,71.064,Stand,Stand
+3123,71.086,Stand,Stand
+3124,71.11,Stand,Stand
+3125,71.13,Stand,Stand
+3126,71.158,Stand,Stand
+3127,71.174,Stand,Stand
+3128,71.196,Stand,Stand
+3129,71.218,Stand,Stand
+3130,71.241,Stand,Stand
+3131,71.262,Stand,Stand
+3132,71.288,Stand,Stand
+3133,71.307,Stand,Stand
+3134,71.328,Stand,Stand
+3135,71.35,Stand,Stand
+3136,71.373,Stand,Stand
+3137,71.396,Stand,Stand
+3138,71.416,Stand,Stand
+3139,71.439,Stand,Stand
+3140,71.461,Stand,Stand
+3141,71.484,Stand,Stand
+3142,71.506,Stand,Stand
+3143,71.527,Stand,Stand
+3144,71.55,Stand,Stand
+3145,71.572,Stand,Stand
+3146,71.594,Stand,Stand
+3147,71.616,Stand,Stand
+3148,71.638,Stand,Stand
+3149,71.66,Stand,Stand
+3150,71.683,Stand,Stand
+3151,71.704,Stand,Stand
+3152,71.726,Stand,Stand
+3153,71.748,Stand,Stand
+3154,71.77,Stand,Stand
+3155,71.791,Stand,Stand
+3156,71.813,Stand,Walk
+3157,71.836,Stand,Walk
+3158,71.858,Stand,Stand
+3159,71.88,Stand,Stand
+3160,71.902,Stand,Stand
+3161,71.924,Stand,Stand
+3162,71.946,Stand,Stand
+3163,71.968,Stand,Stand
+3164,71.99,Stand,Stand
+3165,72.013,Stand,Stand
+3166,72.033,Stand,Stand
+3167,72.056,Stand,Stand
+3168,72.078,Stand,Stand
+3169,72.1,Stand,Stand
+3170,72.122,Stand,Stand
+3171,72.144,Stand,Stand
+3172,72.169,Stand,Stand
+3173,72.189,Stand,Stand
+3174,72.21,Stand,Stand
+3175,72.232,Stand,Stand
+3176,72.254,Stand,Stand
+3177,72.289,Stand,Stand
+3178,72.298,Stand,Stand
+3179,72.321,Stand,Stand
+3180,72.342,Stand,Stand
+3181,72.365,Stand,Stand
+3182,72.386,Stand,Stand
+3183,72.408,Stand,Stand
+3184,72.431,Stand,Stand
+3185,72.453,Stand,Stand
+3186,72.477,Stand,Stand
+3187,72.496,Stand,Stand
+3188,72.519,Stand,Stand
+3189,72.54,Stand,Stand
+3190,72.562,Stand,Stand
+3191,72.585,Stand,Stand
+3192,72.606,Stand,Stand
+3193,72.628,Stand,Stand
+3194,72.651,Stand,Stand
+3195,72.673,Stand,Stand
+3196,72.695,Stand,Stand
+3197,72.717,Stand,Stand
+3198,72.739,Stand,Stand
+3199,72.761,Stand,Stand
+3200,72.783,Stand,Stand
+3201,72.805,Stand,Stand
+3202,72.828,Stand,Stand
+3203,72.85,Stand,Stand
+3204,72.873,Stand,Stand
+3205,72.894,Stand,Stand
+3206,72.917,Stand,Stand
+3207,72.939,Stand,Stand
+3208,72.96,Stand,Stand
+3209,72.982,Stand,Stand
+3210,73.004,Stand,Stand
+3211,73.026,Stand,Stand
+3212,73.048,Stand,Stand
+3213,73.07,Stand,Stand
+3214,73.092,Stand,Stand
+3215,73.114,Stand,Stand
+3216,73.136,Stand,Stand
+3217,73.158,Stand,Stand
+3218,73.18,Stand,Stand
+3219,73.202,Stand,Stand
+3220,73.224,Stand,Stand
+3221,73.246,Stand,Stand
+3222,73.268,Stand,Stand
+3223,73.291,Stand,Stand
+3224,73.313,Stand,Stand
+3225,73.334,Stand,Stand
+3226,73.356,Stand,Stand
+3227,73.378,Stand,Stand
+3228,73.401,Stand,Stand
+3229,73.422,Stand,Stand
+3230,73.443,Stand,Stand
+3231,73.466,Stand,Stand
+3232,73.488,Stand,Stand
+3233,73.509,Stand,Stand
+3234,73.533,Stand,Stand
+3235,73.554,Stand,Stand
+3236,73.576,Stand,Stand
+3237,73.598,Stand,Stand
+3238,73.621,Stand,Stand
+3239,73.643,Stand,Stand
+3240,73.665,Stand,Stand
+3241,73.688,Stand,Stand
+3242,73.709,Stand,Stand
+3243,73.73,Stand,Stand
+3244,73.753,Stand,Stand
+3245,73.775,Stand,Stand
+3246,73.797,Stand,Stand
+3247,73.82,Stand,Stand
+3248,73.841,Stand,Stand
+3249,73.863,Stand,Stand
+3250,73.885,Stand,Stand
+3251,73.908,Stand,Stand
+3252,73.93,Stand,Stand
+3253,73.952,Stand,Stand
+3254,73.974,Stand,Stand
+3255,73.995,Stand,Stand
+3256,74.017,Stand,Stand
+3257,74.04,Stand,Stand
+3258,74.062,Stand,Stand
+3259,74.084,Stand,Stand
+3260,74.106,Stand,Stand
+3261,74.128,Stand,Stand
+3262,74.15,Stand,Stand
+3263,74.176,Stand,Stand
+3264,74.196,Stand,Stand
+3265,74.216,Stand,Stand
+3266,74.238,Stand,Stand
+3267,74.26,Stand,Stand
+3268,74.291,Stand,Stand
+3269,74.312,Stand,Stand
+3270,74.329,Stand,Stand
+3271,74.352,Stand,Stand
+3272,74.373,Stand,Stand
+3273,74.395,Stand,Stand
+3274,74.417,Stand,Stand
+3275,74.441,Stand,Stand
+3276,74.463,Stand,Stand
+3277,74.485,Stand,Stand
+3278,74.507,Stand,Stand
+3279,74.529,Stand,Stand
+3280,74.551,Stand,Stand
+3281,74.573,Stand,Stand
+3282,74.595,Stand,Stand
+3283,74.617,Stand,Stand
+3284,74.639,Stand,Stand
+3285,74.662,Stand,Stand
+3286,74.683,Stand,Stand
+3287,74.705,Stand,Stand
+3288,74.727,Stand,Stand
+3289,74.749,Stand,Stand
+3290,74.772,Stand,Stand
+3291,74.793,Stand,Stand
+3292,74.817,Stand,Stand
+3293,74.838,Stand,Stand
+3294,74.859,Stand,Stand
+3295,74.882,Stand,Stand
+3296,74.904,Stand,Stand
+3297,74.926,Stand,Stand
+3298,74.95,Stand,Stand
+3299,74.97,Stand,Stand
+3300,74.99,Stand,Stand
+3301,75.012,Stand,Stand
+3302,75.034,Stand,Stand
+3303,75.056,Stand,Stand
+3304,75.078,Stand,Stand
+3305,75.101,Stand,Stand
+3306,75.122,Stand,Stand
+3307,75.145,Stand,Stand
+3308,75.167,Stand,Stand
+3309,75.189,Stand,Stand
+3310,75.211,Stand,Stand
+3311,75.234,Stand,Stand
+3312,75.257,Stand,Stand
+3313,75.277,Stand,Stand
+3314,75.299,Stand,Stand
+3315,75.321,Stand,Stand
+3316,75.343,Stand,Stand
+3317,75.365,Stand,Stand
+3318,75.387,Stand,Stand
+3319,75.409,Stand,Stand
+3320,75.433,Stand,Stand
+3321,75.453,Stand,Stand
+3322,75.475,Stand,Stand
+3323,75.499,Stand,Stand
+3324,75.523,Stand,Stand
+3325,75.543,Stand,Stand
+3326,75.565,Stand,Stand
+3327,75.587,Stand,Stand
+3328,75.608,Stand,Stand
+3329,75.631,Stand,Stand
+3330,75.652,Stand,Stand
+3331,75.673,Stand,Stand
+3332,75.697,Stand,Stand
+3333,75.719,Stand,Stand
+3334,75.739,Stand,Stand
+3335,75.761,Stand,Stand
+3336,75.784,Stand,Stand
+3337,75.805,Stand,Stand
+3338,75.828,Stand,Stand
+3339,75.85,Stand,Stand
+3340,75.872,Stand,Stand
+3341,75.903,Stand,Stand
+3342,75.925,Stand,Stand
+3343,75.948,Stand,Stand
+3344,75.948,Stand,Stand
+3345,75.948,Stand,Stand
+3346,75.948,Stand,Stand
+3347,75.948,Stand,Stand
+3348,75.948,Stand,Stand
+3349,75.948,Stand,Stand
+3350,75.948,Stand,Walk
+3351,75.948,Stand,Stand
+3352,75.948,Stand,Stand
